@@ -1,0 +1,31 @@
+{
+  "langue": "fr",
+  "videos_par_jour": 3,
+  "option_credits": "A (abonnement ElevenLabs Starter) - a revoir chaque dimanche",
+  "rotation_semaine": {
+    "lundi":    ["Motivation", "Humour", "Storytime"],
+    "mardi":    ["Biblique", "Motivation", "Humour"],
+    "mercredi": ["Storytime", "Biblique", "Motivation"],
+    "jeudi":    ["Humour", "Storytime", "Biblique"],
+    "vendredi": ["Motivation", "Humour", "Storytime"],
+    "samedi":   ["Biblique", "Motivation", "Humour"],
+    "dimanche": ["Storytime", "Biblique", "Motivation"]
+  },
+  "heures_publication_paris": ["12:30", "18:00", "20:30"],
+  "voix": {
+    "Storytime": {"nom": "Bass", "voice_id": "wQjKP9DkO6pDLKdaqFn6", "duree_s": 45, "credits_estimes": 750},
+    "Motivation": {"nom": "Bass", "voice_id": "wQjKP9DkO6pDLKdaqFn6", "duree_s": 30, "credits_estimes": 300},
+    "Biblique": {"nom": "Bass", "voice_id": "wQjKP9DkO6pDLKdaqFn6", "duree_s": 33, "credits_estimes": 350},
+    "Humour": {"nom": "Agathe", "voice_id": "SptHT9PQ49isQvxFm28t", "duree_s": 30, "credits_estimes": 300}
+  },
+  "comptes": {
+    "tiktok_ayco": {"platform": "TIKTOK", "platformAccountId": "_000y7UoBYIyy4ORSOKT9trG2XzuUnVROuwP", "themes": "tous"},
+    "youtube_theone": {"platform": "YOUTUBE", "platformAccountId": "UCBvfsLoiA3MNGjPcXNEm7Jg", "themes": "tous"},
+    "youtube_ayleco": {"platform": "YOUTUBE", "platformAccountId": "UCo1ygDIeGx52etfWAxj8J5w", "themes": "tous"},
+    "instagram_laterreduprince": {"platform": "INSTAGRAM", "platformAccountId": "29384871954470744", "themes": "tous"},
+    "instagram_aytenseigne": {"platform": "INSTAGRAM", "platformAccountId": "29718777424372484", "themes": ["Storytime", "Humour", "Instructif"]}
+  },
+  "comptes_interdits": ["UCNlqxuf_MwPNxr5CVRSthgg (Aylecreate)", "UCY1nRZ97VQKKJKnkDiZK2QA (1minute augabon)"],
+  "youtube_privacy": "public",
+  "tiktok": null
+}
