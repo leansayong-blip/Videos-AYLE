@@ -47,3 +47,10 @@ Rotation : voir `config.json` (3 vidéos par jour, option A). Si `planning/semai
 ## Après publication
 - Mettre à jour l'artifact « Business VYLE » (https://claude.ai/artifact/DuWnGLg2FTGMhaexAdbmrZ) : videos.json (nouvelle ligne : id, titre, theme, date, duree_s, voix, credits, statut, note, apercu 180x320 en data:image/jpeg;base64, liens de publication), dataset clip_vNN (base64 d'une version allégée), en respectant la règle d'édition (stamp edit avant chaque modification).
 - Notifier Leans (PushNotification + SendUserMessage) : vidéos publiées, comptes, heures, crédits restants.
+
+## Formats qui marchent (retours de Leans)
+- 14/11/2026 : le format « Moi à 18h vs moi à 2h du matin » (contraste résolution / réalité, étiquettes de jour ou d'heure, voix Agathe, chute drôle) a bien fonctionné.
+  → Pour l'Humour, utiliser ce format **environ 1 fois sur 2**, en alternant la cible :
+    - **version femmes** : situations vécues par les femmes (« Moi le lundi vs moi le vendredi », « Moi avant le date vs moi après », « Moi au début du mois vs moi le 28 »…), avec des **photos Unsplash de femmes** (non identifiables dans une situation gênante, pas de marque visible).
+    - **version hommes** : même principe côté hommes, photos d'hommes.
+  → Varier les contrastes (heures, jours, avant/après, attente/réalité) pour ne pas répéter la même vidéo. Toujours finir sur une question qui pousse à identifier quelqu'un en commentaire.
