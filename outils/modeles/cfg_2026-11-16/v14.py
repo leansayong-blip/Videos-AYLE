@@ -1,6 +1,7 @@
 D="/home/claude/work/v14"; VO=0.4; END=22.5
 GRADE=("colorbalance=rs=-0.02:gs=0.0:bs=0.04:rh=0.05:gh=0.01:bh=-0.03,eq=contrast=1.1:saturation=0.92:brightness=-0.02,vignette=PI/4.5,noise=alls=6:allf=t")
-SCENES=[("m1","m_clock",1.00,1.15,1.9,None,0,"","c"),
+SCENES=[("m0","m_top",1.00,1.04,0.6,None,0,"","c"),
+ ("m1","m_clock",1.00,1.15,1.3,"fade",0.25,"","c"),
  ("m2","m_night",1.00,1.12,1.7,"fade",0.3,"","c"),
  ("m3","m_bed",1.12,1.00,3.2,"fadeblack",0.4,"","b"),
  ("m4","m_shoes",1.00,1.15,2.6,"fade",0.3,"","c"),
@@ -9,7 +10,8 @@ SCENES=[("m1","m_clock",1.00,1.15,1.9,None,0,"","c"),
  ("m7","m_sunrise",1.15,1.00,2.1,"fade",0.3,"","c"),
  ("m8","m_top",1.00,1.18,None,"fadewhite",0.5,"","c")]
 X="/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
-HOOKS=[("*Lundi. *5h *du *matin.",0.15,3.4,dict(size=78,y=560)),
+COVER=("Tout le monde dort…\n*sauf *toi.",0.75,dict(size=104,y=900,maxw=960))
+HOOKS=[("*Lundi. *5h *du *matin.",0.75,3.4,dict(size=78,y=560)),
        ("Tout le monde dort.",1.9,3.4,dict(size=60,y=700,stroke=6))]
 CAPS=[(3.44,4.52,"Toi, tu as *le *choix."),
 (5.11,6.05,"Rester sous la couette…"),

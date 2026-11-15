@@ -58,6 +58,8 @@ def cap_png(name, text, size=66, y=1360, font=BOLD, maxw=900, stroke=7, color=(2
 caps = []
 def add(name, text, a, b, **kw): cap_png(name, text, **kw); caps.append((name, a, b))
 V = lambda x: x + VO
+COVER = getattr(cfg, "COVER", None)  # (texte, fin, kw) : couverture visible des la frame 0 (regle du 15/11)
+if COVER: add("cover", COVER[0], 0.0, COVER[1], font=XB, **COVER[2])
 for k, (txt, a, b, kw) in enumerate(cfg.HOOKS): add(f"hook{k}", txt, a, b, font=XB, **kw)
 P = cfg.CAPS
 for k, (a, b, txt) in enumerate(P):
@@ -78,11 +80,12 @@ base = len(S)
 for j, (nm, a, b) in enumerate(caps):
     inputs += ["-loop", "1", "-t", f"{END:.2f}", "-i", f"{C}/{nm}.png"]
     fi = 0.3 if nm.startswith(("hook", "fin")) else 0.12
-    fc.append(f"[{base+j}:v]format=rgba,fade=in:st={a:.2f}:d={fi}:alpha=1,fade=out:st={max(b-0.15,a+fi):.2f}:d=0.15:alpha=1[p{j}]")
+    fin_ = "" if nm == "cover" else f"fade=in:st={a:.2f}:d={fi}:alpha=1,"
+    fc.append(f"[{base+j}:v]format=rgba,{fin_}fade=out:st={max(b-0.2,a+fi):.2f}:d=0.2:alpha=1[p{j}]")
     fc.append(f"{prev}[p{j}]overlay=0:0:enable='between(t,{a:.2f},{b:.2f})'[o{j}]"); prev = f"[o{j}]"
 li = base + len(caps); inputs += ["-loop", "1", "-t", f"{END:.2f}", "-i", "/home/claude/videos-ayle/outils/logo/ayleco_overlay.png"]
-fc.append(f"[{li}:v]format=rgba,fade=in:st=0:d=0.3:alpha=1[lg]"); fc.append(f"{prev}[lg]overlay=36:120[ol]")
-fc.append(f"[ol]fade=in:st=0:d=0.3,fade=out:st={END-1.0}:d=1.0,format=yuv420p[vout]")
+fc.append(f"[{li}:v]format=rgba{'' if COVER else ',fade=in:st=0:d=0.3:alpha=1'}[lg]"); fc.append(f"{prev}[lg]overlay=36:120[ol]")
+fc.append(f"[ol]{'' if COVER else 'fade=in:st=0:d=0.3,'}fade=out:st={END-1.0}:d=1.0,format=yuv420p[vout]")
 tmp = f"{D}/tmp_video.mp4"
 run(["ffmpeg", "-nostdin", "-y", *inputs, "-filter_complex", ";".join(fc), "-map", "[vout]", "-t", f"{END}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-maxrate", "8M", "-bufsize", "16M", tmp])
 os.replace(tmp, f"{D}/video.mp4")

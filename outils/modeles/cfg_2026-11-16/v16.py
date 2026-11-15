@@ -1,6 +1,7 @@
 D="/home/claude/work/v16"; VO=0.4; END=33.0
 GRADE=("colorbalance=rs=0.03:gs=0.0:bs=-0.03:rh=0.06:gh=0.02:bh=-0.04,eq=contrast=1.07:saturation=0.95:brightness=-0.02,vignette=PI/4.5,noise=alls=5:allf=t")
-SCENES=[("s1","s_drive",1.00,1.12,3.0,None,0,"","c"),
+SCENES=[("s0","s_handshake",1.00,1.04,0.6,None,0,"","c"),
+ ("s1","s_drive",1.00,1.12,2.4,"fade",0.25,"","c"),
  ("s2","s_breakdown",1.00,1.15,2.9,"fade",0.4,"","b"),
  ("s3","s_traffic",1.00,1.12,2.7,"fade",0.3,"","c"),
  ("s4","s_push",1.12,1.00,1.9,"fadeblack",0.4,"","c"),
@@ -11,7 +12,8 @@ SCENES=[("s1","s_drive",1.00,1.12,3.0,None,0,"","c"),
  ("s9","s_handshake",1.00,1.18,3.9,"fade",0.3,"","c"),
  ("s10","s_road",1.00,1.15,None,"fadewhite",0.6,"","b")]
 X="/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
-HOOKS=[("Il aide un *inconnu…",0.15,2.9,dict(size=74,y=560)),
+COVER=("Il aide un *inconnu… et le retrouve *en *entretien.",0.75,dict(size=96,y=900,maxw=960))
+HOOKS=[("Il aide un *inconnu…",0.75,2.9,dict(size=74,y=560)),
        ("…et le retrouve *en *entretien.",0.9,2.9,dict(size=58,y=700,stroke=6,maxw=1000))]
 CAPS=[(0.05,1.94,"Il rentre du travail, *épuisé."),
 (2.72,5.54,"Sur la route, un homme pousse *seul sa voiture en panne."),

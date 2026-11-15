@@ -1,7 +1,8 @@
 D="/home/claude/work/v15"; VO=0.4; END=23.4
 GRADE=("eq=contrast=1.05:saturation=1.08:brightness=0.01,vignette=PI/5,noise=alls=4:allf=t")
 DARK=",eq=saturation=0.6:brightness=-0.05:contrast=1.08"
-SCENES=[("h1","h_shopping",1.00,1.12,2.3,None,0,"","c"),
+SCENES=[("h0","h_friends",1.00,1.04,0.6,None,0,"","c"),
+ ("h1","h_shopping",1.00,1.12,1.7,"fade",0.25,"","c"),
  ("h2","h_brunch",1.00,1.12,2.4,"slideleft",0.3,"","c"),
  ("h3","h_dress",1.10,1.00,2.5,"slideup",0.3,"","c"),
  ("h4","h_desserts",1.00,1.15,2.4,"zoomin",0.3,"","c"),
@@ -10,7 +11,8 @@ SCENES=[("h1","h_shopping",1.00,1.12,2.3,None,0,"","c"),
  ("h7","h_wallet",1.15,1.00,2.5,"slideup",0.3,DARK,"c"),
  ("h8","h_friends",1.00,1.12,None,"fadewhite",0.4,"","c")]
 X="/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
-HOOKS=[("Moi, le *1er *du *mois",0.15,9.5,dict(size=80,y=440)),
+COVER=("Moi le *1er vs moi le *28",0.75,dict(size=104,y=900,maxw=900))
+HOOKS=[("Moi, le *1er *du *mois",0.75,9.5,dict(size=80,y=440)),
        ("Moi, le *28",9.6,18.7,dict(size=96,y=440))]
 CAPS=[(1.83,2.60,"*Salaire *tombé."),
 (3.07,5.34,"Brunch avec les copines, nouvelle robe…"),
