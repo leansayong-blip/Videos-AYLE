@@ -40,9 +40,9 @@
     ]
   },
   "heures_publication_paris": [
-    "12:30",
-    "18:00",
-    "20:30"
+    "05:00",
+    "10:00",
+    "16:00"
   ],
   "voix": {
     "Storytime": {
@@ -111,5 +111,6 @@
     "allowComment": true,
     "musicUsageConfirmed": true,
     "choisi_par_leans_le": "2026-11-14"
-  }
+  },
+  "production": "La tache tourne la veille (14h47) et programme les videos du LENDEMAIN a 05:00, 10:00 et 16:00 (heure de Paris). Theme du jour = rotation du jour de publication."
 }

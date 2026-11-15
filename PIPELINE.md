@@ -22,7 +22,7 @@ Toutes les réponses à Leans : en français, direct, sans compliments, apostrop
 | Humour hommes/femmes | Agathe `SptHT9PQ49isQvxFm28t` | 30 s | 300 |
 | Biblique | Bass | 33 s | 350 |
 
-Rotation : voir `config.json` (3 vidéos par jour, option A). Si `planning/semaine-AAAA-SNN.md` existe (validé le dimanche avec Leans), il prime sur la rotation.
+Rotation : voir `config.json` (3 vidéos par jour, option A). **La production se fait la veille** : la tâche de 14h47 prépare les vidéos du lendemain, publiées à 05:00, 10:00 et 16:00 (heure de Paris) ; la rotation et le planning utilisés sont ceux du jour de publication. Si `planning/semaine-AAAA-SNN.md` existe (validé le dimanche avec Leans), il prime sur la rotation.
 
 ## Gestion des crédits (chaque jour, avant de produire)
 1. `account_get_usage` (ElevenLabs) : restants = character_limit - character_count ; jours restants = jusqu'à next_character_count_reset_unix.
