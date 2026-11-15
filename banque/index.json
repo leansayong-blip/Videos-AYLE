@@ -604,5 +604,461 @@
     "publication": "2026-11-16"
    }
   ]
+ },
+ {
+  "id": "JVePgf8IjWQ",
+  "fichier": "banque/photos/JVePgf8IjWQ.jpg",
+  "photographe": "Rob Potter",
+  "username": "robpotter",
+  "theme": "Biblique",
+  "description": "lion qui rugit, gueule ouverte, fond sombre",
+  "tags": [
+   "lion",
+   "rugissement",
+   "danger",
+   "sombre",
+   "fauve",
+   "daniel"
+  ],
+  "largeur": 1620,
+  "hauteur": 2428,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "UdPpx9HApBs",
+  "fichier": "banque/photos/UdPpx9HApBs.jpg",
+  "photographe": "Museum of New Zealand Te Papa Tongarewa",
+  "username": "tepapa",
+  "theme": "Biblique",
+  "description": "lion de profil, photo ancienne sépia, fond sombre",
+  "tags": [
+   "lion",
+   "profil",
+   "ancien",
+   "majesté",
+   "daniel"
+  ],
+  "largeur": 1620,
+  "hauteur": 2216,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "LxHNtt8pRuM",
+  "fichier": "banque/photos/LxHNtt8pRuM.jpg",
+  "photographe": "Jakob Owens",
+  "username": "jakobowens1",
+  "theme": "Biblique",
+  "description": "silhouette de profil, mains jointes contre la lumière dorée (bonne couverture)",
+  "tags": [
+   "prière",
+   "lumière",
+   "foi",
+   "silhouette",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "iAJtavX5H_8",
+  "fichier": "banque/photos/iAJtavX5H_8.jpg",
+  "photographe": "Sam Badmaeva",
+  "username": "sam_badmaeva",
+  "theme": "Biblique",
+  "description": "mains jointes dans le noir",
+  "tags": [
+   "prière",
+   "mains",
+   "nuit",
+   "foi",
+   "sombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "Hi0bdO0vEfo",
+  "fichier": "banque/photos/Hi0bdO0vEfo.jpg",
+  "photographe": "Ivana Cajina",
+  "username": "von_co",
+  "theme": "Biblique",
+  "description": "personne dans une grotte sombre, rayons de lumière",
+  "tags": [
+   "grotte",
+   "fosse",
+   "lumière",
+   "espoir",
+   "matin"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "facU72FcKBI",
+  "fichier": "banque/photos/facU72FcKBI.jpg",
+  "photographe": "Daniel Burka",
+  "username": "dburka",
+  "theme": "Biblique",
+  "description": "grande caverne, lumière qui entre par l'ouverture",
+  "tags": [
+   "grotte",
+   "fosse",
+   "lumière",
+   "ouverture",
+   "délivrance"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "rtOD6PdRAlU",
+  "fichier": "banque/photos/rtOD6PdRAlU.jpg",
+  "photographe": "Bradley Dunn",
+  "username": "bradleycdunn",
+  "theme": "Biblique",
+  "description": "intérieur de grotte sombre, roche",
+  "tags": [
+   "grotte",
+   "fosse",
+   "nuit",
+   "roche",
+   "sombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2427,
+  "utilisations": [
+   {
+    "video": "v17",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "51FnR4eS_dw",
+  "fichier": "banque/photos/51FnR4eS_dw.jpg",
+  "photographe": "Behnam Norouzi",
+  "username": "behy_studio",
+  "theme": "Humour",
+  "description": "pince, marteau et clé à molette sur fond noir",
+  "tags": [
+   "outils",
+   "bricolage",
+   "marteau",
+   "clé",
+   "réparation"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "z-Pl41JT3RA",
+  "fichier": "banque/photos/z-Pl41JT3RA.jpg",
+  "photographe": "Giullia Siqueira",
+  "username": "giulliasiqueira",
+  "theme": "Humour",
+  "description": "outils posés sur une table sombre, vis",
+  "tags": [
+   "outils",
+   "bricolage",
+   "vis",
+   "table",
+   "réparation"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "OegFhZfw6Ok",
+  "fichier": "banque/photos/OegFhZfw6Ok.jpg",
+  "photographe": "Isabela Kronemberger",
+  "username": "kronemberger",
+  "theme": "Humour",
+  "description": "caisse à outils remplie de clés",
+  "tags": [
+   "outils",
+   "caisse",
+   "clés",
+   "bricolage"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "KwIdJkVwkmc",
+  "fichier": "banque/photos/KwIdJkVwkmc.jpg",
+  "photographe": "Leon Fellingham",
+  "username": "kaivoo",
+  "theme": "Humour",
+  "description": "homme au téléphone devant un immeuble, noir et blanc",
+  "tags": [
+   "téléphone",
+   "homme",
+   "appel",
+   "ville"
+  ],
+  "largeur": 1620,
+  "hauteur": 2196,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "3Eiv1Zq_sVk",
+  "fichier": "banque/photos/3Eiv1Zq_sVk.jpg",
+  "photographe": "Rupinder Singh",
+  "username": "singhrupinder",
+  "theme": "Humour",
+  "description": "homme de dos au téléphone dans la rue",
+  "tags": [
+   "téléphone",
+   "homme",
+   "appel",
+   "rue"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "4FL8iqLdUP4",
+  "fichier": "banque/photos/4FL8iqLdUP4.jpg",
+  "photographe": "Gowtham AGM",
+  "username": "gowthamagm",
+  "theme": "Humour",
+  "description": "tuyau d'où l'eau jaillit",
+  "tags": [
+   "eau",
+   "fuite",
+   "tuyau",
+   "catastrophe",
+   "plomberie"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "n2ZufifTbSo",
+  "fichier": "banque/photos/n2ZufifTbSo.jpg",
+  "photographe": "Elimende Inagella",
+  "username": "elimendeinagella",
+  "theme": "Humour",
+  "description": "robinet en laiton qui fuit",
+  "tags": [
+   "eau",
+   "fuite",
+   "robinet",
+   "plomberie"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v18",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "Y06imaOLycY",
+  "fichier": "banque/photos/Y06imaOLycY.jpg",
+  "photographe": "Dan Renco",
+  "username": "fotoman_24",
+  "theme": "Biblique",
+  "description": "cochons dans la boue",
+  "tags": [
+   "cochons",
+   "ferme",
+   "boue",
+   "misère"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "vMjrs3C50d8",
+  "fichier": "banque/photos/vMjrs3C50d8.jpg",
+  "photographe": "Zoe Richardson",
+  "username": "farmsteadphoto",
+  "theme": "Biblique",
+  "description": "porcelets dans la paille sous une lampe",
+  "tags": [
+   "cochons",
+   "ferme",
+   "paille",
+   "porcelets"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "ZJm9kxUN7rI",
+  "fichier": "banque/photos/ZJm9kxUN7rI.jpg",
+  "photographe": "Evan Wise",
+  "username": "evanthewise",
+  "theme": "Biblique",
+  "description": "homme de dos sur un chemin de terre ensoleillé",
+  "tags": [
+   "chemin",
+   "marche",
+   "retour",
+   "homme",
+   "route"
+  ],
+  "largeur": 1620,
+  "hauteur": 2426,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "fCn8kVY2FLQ",
+  "fichier": "banque/photos/fCn8kVY2FLQ.jpg",
+  "photographe": "Eli Missing",
+  "username": "jacob_17",
+  "theme": "Biblique",
+  "description": "homme de dos sur un chemin de gravier entre les arbres",
+  "tags": [
+   "chemin",
+   "marche",
+   "seul",
+   "homme",
+   "route"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "FPyLHjNlkYE",
+  "fichier": "banque/photos/FPyLHjNlkYE.jpg",
+  "photographe": "Anees Ur Rehman",
+  "username": "drphotographer152",
+  "theme": "Biblique",
+  "description": "homme en tunique de dos sur un chemin entre eucalyptus",
+  "tags": [
+   "chemin",
+   "marche",
+   "tunique",
+   "retour",
+   "biblique"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "yikKOtj3H94",
+  "fichier": "banque/photos/yikKOtj3H94.jpg",
+  "photographe": "Arifur Rahman",
+  "username": "tuser08",
+  "theme": "Biblique",
+  "description": "silhouette d'un adulte et d'un enfant au coucher du soleil (bonne couverture)",
+  "tags": [
+   "père",
+   "fils",
+   "amour",
+   "retour",
+   "coucher de soleil",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v19",
+    "publication": "2026-11-16"
+   }
+  ]
  }
 ]
