@@ -25,9 +25,15 @@ Toutes les réponses à Leans : en français, direct, sans compliments, apostrop
 Rotation : voir `config.json` (3 vidéos par jour, option A). **Chaque jour : 1 vidéo Biblique obligatoire (05:00) + 2 vidéos en rotation Motivation / Humour / Storytime (10:00, 16:00).** **La production se fait la veille** : la tâche de 14h47 prépare les vidéos du lendemain, publiées à 05:00, 10:00 et 16:00 (heure de Paris) ; la rotation et le planning utilisés sont ceux du jour de publication. Si `planning/semaine-AAAA-SNN.md` existe (validé le dimanche avec Leans), il prime sur la rotation.
 
 ## Gestion des crédits (chaque jour, avant de produire)
-1. `account_get_usage` (ElevenLabs) : restants = character_limit - character_count ; jours restants = jusqu'à next_character_count_reset_unix.
-2. Budget du jour = restants / jours restants. Si le budget ne couvre pas les 3 vidéos, remplacer une Storytime par une Motivation, puis réduire à 2 vidéos. Ne jamais passer sous 1 000 crédits de réserve.
-3. vidIQ : outils gratuits (video_upload, social_post_*). find_broll (1 crédit) autorisé UNIQUEMENT pour les Storytime, de temps en temps (1 recherche max par vidéo, vérifier que le mp4 Pexels se télécharge avant de l'utiliser). Tous les autres thèmes : Unsplash uniquement.
+Objectif fixé par Leans (15/11/2026) : **tenir 3 vidéos par jour jusqu'au renouvellement ElevenLabs ET utiliser tous les crédits avant ce renouvellement** (aucun crédit perdu, aucun jour sans vidéo).
+1. `account_get_usage` (ElevenLabs) : restants = character_limit - character_count ; renouvellement = next_character_count_reset_unix ; J = nombre de jours de publication restants avant le renouvellement (en comptant demain).
+2. Budget du jour = restants / J.
+   - Coûts de référence : Biblique ≈ 350, Motivation ≈ 300, Humour ≈ 300, Storytime 45 s ≈ 750.
+   - Si le budget est INFÉRIEUR au coût des 3 vidéos prévues : garder 3 vidéos mais raccourcir les textes (Storytime 35 s ≈ 580, autres 25 s ≈ 250) ; si ce n'est toujours pas assez, remplacer la Storytime par une Motivation. Ne jamais descendre sous 3 vidéos tant que c'est possible.
+   - Si le budget DÉPASSE le coût des 3 vidéos d'au moins 300 crédits : ajouter une 4e vidéo ce jour-là (thème suivant de la rotation, publiée à 19:00), pour ne pas laisser de crédits inutilisés.
+   - Le dernier jour de production avant le renouvellement : utiliser tout le reste (vidéos supplémentaires si besoin), en gardant seulement de quoi produire la dernière vidéo correctement.
+3. Indiquer dans la notification du jour : crédits restants, budget du jour, et si on est en avance ou en retard sur l'objectif.
+4. vidIQ : outils gratuits (video_upload, social_post_*). find_broll (1 crédit) autorisé UNIQUEMENT pour les Storytime, de temps en temps (1 recherche max par vidéo, vérifier que le mp4 Pexels se télécharge avant de l'utiliser). Tous les autres thèmes : Unsplash uniquement.
 
 ## Étapes de production (par vidéo)
 1. Écrire le script (texte voix, 2-3 phrases d'accroche à l'écran, titre).
