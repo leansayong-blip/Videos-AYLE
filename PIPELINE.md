@@ -5,7 +5,7 @@ Toutes les réponses à Leans : en français, direct, sans compliments, apostrop
 
 ## Règles absolues
 - Ne JAMAIS dépenser de crédits (ElevenLabs, vidIQ) sans avoir vérifié qu'on peut récupérer et utiliser le résultat.
-- Images : Unsplash uniquement (0 crédit vidIQ). Pas de logo de marque visible, pas de personnage protégé, pas de personne identifiable dans une situation négative.
+- Images : Unsplash uniquement (0 crédit vidIQ), sauf Storytime où une recherche vidIQ find_broll est permise de temps en temps (voir Gestion des crédits). Pas de logo de marque visible, pas de personnage protégé, pas de personne identifiable dans une situation négative.
 - Voix : ElevenLabs `creative_generate_speech`, modèle eleven_v4, **generations_count 1**, une seule prise. Jamais de nouvelle tentative en cas d'échec : on saute la vidéo et on le signale.
 - Musique : composée localement (numpy/scipy), JAMAIS forte (volume 0.2 à 0.25 + sidechain sur la voix), loudnorm -14 LUFS.
 - **Aucun bruit de transition (whoosh, riser).**
@@ -27,7 +27,7 @@ Rotation : voir `config.json` (3 vidéos par jour, option A). **Chaque jour : 1 
 ## Gestion des crédits (chaque jour, avant de produire)
 1. `account_get_usage` (ElevenLabs) : restants = character_limit - character_count ; jours restants = jusqu'à next_character_count_reset_unix.
 2. Budget du jour = restants / jours restants. Si le budget ne couvre pas les 3 vidéos, remplacer une Storytime par une Motivation, puis réduire à 2 vidéos. Ne jamais passer sous 1 000 crédits de réserve.
-3. vidIQ : on n'utilise que les outils gratuits (video_upload, social_post_*). Pas de find_broll sauf demande de Leans.
+3. vidIQ : outils gratuits (video_upload, social_post_*). find_broll (1 crédit) autorisé UNIQUEMENT pour les Storytime, de temps en temps (1 recherche max par vidéo, vérifier que le mp4 Pexels se télécharge avant de l'utiliser). Tous les autres thèmes : Unsplash uniquement.
 
 ## Étapes de production (par vidéo)
 1. Écrire le script (texte voix, 2-3 phrases d'accroche à l'écran, titre).
