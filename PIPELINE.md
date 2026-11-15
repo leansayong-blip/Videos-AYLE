@@ -60,3 +60,9 @@ Objectif fixé par Leans (15/11/2026) : **tenir 3 vidéos par jour jusqu'au reno
     - **version femmes** : situations vécues par les femmes (« Moi le lundi vs moi le vendredi », « Moi avant le date vs moi après », « Moi au début du mois vs moi le 28 »…), avec des **photos Unsplash de femmes** (non identifiables dans une situation gênante, pas de marque visible).
     - **version hommes** : même principe côté hommes, photos d'hommes.
   → Varier les contrastes (heures, jours, avant/après, attente/réalité) pour ne pas répéter la même vidéo. Toujours finir sur une question qui pousse à identifier quelqu'un en commentaire.
+
+## Couverture (miniature) — OBLIGATOIRE (demande de Leans, 15/11/2026)
+Instagram (et souvent TikTok) prend la **toute première image** de la vidéo comme couverture ; l'outil vidIQ ne permet pas de choisir une autre image. Donc :
+- **Jamais d'ouverture au noir** : supprimer tout `fade=in` au début de la vidéo finale (pas de fondu depuis le noir sur la 1re seconde).
+- **Les 0,5 premières secondes = la couverture** : la meilleure photo de la vidéo, bien éclairée, avec le **titre accrocheur en très gros** (InterDisplay ExtraBold, 90-110 px, contour noir, 1 ou 2 mots clés en jaune), centré dans la zone sûre (entre y=500 et y=1300, pour ne pas être coupé dans la grille Instagram 3:4 ni sous les boutons) + logo Ayle&Co. Puis la vidéo enchaîne normalement (le titre peut rester et se fondre dans l'accroche).
+- Vérifier la frame 0 (`ffmpeg -ss 0 -frames:v 1`) avant de publier : elle doit être lisible, belle et donner envie de cliquer. Si elle est noire ou vide, corriger avant publication.
