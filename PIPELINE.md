@@ -37,7 +37,7 @@ Objectif fixé par Leans (15/11/2026) : **tenir 3 vidéos par jour jusqu'au reno
 
 ## Étapes de production (par vidéo)
 1. Écrire le script (texte voix, 2-3 phrases d'accroche à l'écran, titre).
-2. Unsplash : `search_photos` (portrait), choisir 6 à 10 photos, `download_asset` pour chacune (obligatoire), télécharger `images.unsplash.com/...&w=2160`. Noter les noms des photographes.
+2. Photos : **d'abord la banque** (`python3 outils/banque.py chercher "mot1,mot2"`, voir section Économie de tokens). Ne chercher sur Unsplash que ce qui manque : `search_photos` (portrait, **per_page 4**), `download_asset` pour chacune (obligatoire), télécharger `images.unsplash.com/...&w=2160`, puis **ajouter chaque nouvelle photo à la banque** (`banque.py ajouter`). Copier les photos de la vidéo avec `banque.py preparer`, noter l'usage avec `banque.py utiliser`, crédits avec `banque.py credits`.
 3. Voix : `creative_generate_speech` (1 prise), puis `creative_get_flow_run_status` pour le content_url (elevenlabsusercontent.com), télécharger le mp3.
 4. Caler les sous-titres : `ffmpeg silencedetect` puis transcription locale par segment (`outils/asr_segments.py`, modèle sherpa-onnx whisper-base téléchargé depuis github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-base.tar.bz2).
 5. Montage : adapter un modèle de `outils/modeles/` (storytime_build.py est le plus récent : scènes, sous-titres, logo, musique, mixage). Vérifier 4 à 6 images clés avant le rendu complet. Encoder crf 23-24, maxrate 8M.
@@ -66,3 +66,21 @@ Instagram (et souvent TikTok) prend la **toute première image** de la vidéo co
 - **Jamais d'ouverture au noir** : supprimer tout `fade=in` au début de la vidéo finale (pas de fondu depuis le noir sur la 1re seconde).
 - **Les 0,5 premières secondes = la couverture** : la meilleure photo de la vidéo, bien éclairée, avec le **titre accrocheur en très gros** (InterDisplay ExtraBold, 90-110 px, contour noir, 1 ou 2 mots clés en jaune), centré dans la zone sûre (entre y=500 et y=1300, pour ne pas être coupé dans la grille Instagram 3:4 ni sous les boutons) + logo Ayle&Co. Puis la vidéo enchaîne normalement (le titre peut rester et se fondre dans l'accroche).
 - Vérifier la frame 0 (`ffmpeg -ss 0 -frames:v 1`) avant de publier : elle doit être lisible, belle et donner envie de cliquer. Si elle est noire ou vide, corriger avant publication.
+
+
+## Économie de tokens Claude (demande de Leans, 15/11/2026) : utiliser le moins possible
+Les crédits Claude de Leans sont limités. Chaque run doit être aussi léger que possible, sans baisser la qualité des vidéos.
+1. **Banque de photos** (`banque/index.json` + `banque/photos/<id>.jpg`, outil `outils/banque.py`) :
+   - Toujours chercher d'abord dans la banque. Réutiliser une photo est permis si elle n'a pas servi depuis 14 jours (marquée `ok`), jamais deux fois dans la même vidéo.
+   - Objectif : au plus **3 nouvelles recherches Unsplash par vidéo**, `per_page` 4 (les réponses Unsplash sont très lourdes). Une recherche = un concept court.
+   - Toute photo téléchargée entre dans la banque avec photographe, thème, description de ce qu'on voit et tags en français. Les photos marquées `couverture` sont bien éclairées et servent de première image.
+   - Pas de sous-agent pour les photos (trop coûteux) : faire les recherches soi-même, en parallèle.
+2. **Montage** : toujours `outils/modeles/generic_build.py` + un fichier cfg par vidéo (exemples dans `outils/modeles/cfg_2026-11-16/`). Ne pas relire les autres modèles. Vérification visuelle : une seule planche de 6 images par vidéo (hstack en 270x480) + la frame 0.
+3. **Voix** : `estimate_only` inutile (coût = nombre de caractères du texte, environ 1 crédit par caractère) ; compter les caractères en local.
+4. **Artifact Business VYLE** : ne pas relire les instructions du type ni la page. Procédure fixe :
+   - lire `datasets/videos` (pour sa version et l'url du blob) puis `Artifact read path=<id du blob>` pour récupérer videos.json (liste de lignes) ;
+   - ajouter les lignes (apercu = `data:image/jpeg;base64,...` 180x320), uploader le nouveau videos.json avec `Artifact publish asset:true` ;
+   - clips : fichier texte = **base64 brut du mp4 sans préfixe** (360x640, crf 32, aac 64k), un upload par fichier ;
+   - un seul `ArtifactData batch` : update `datasets/videos` (source.url, edit, updated, if_version) + set `datasets/clip_vNN` (title, description, fixed:true, source {format:text, kind:file, name, url}, edit, updated).
+5. **Ne pas appeler** `list_triggers` (réponse énorme) ni lire des fichiers ou outils inutiles. Statut vidIQ : un seul `social_post_status` par publication, après la publication.
+6. Messages à Leans courts.
