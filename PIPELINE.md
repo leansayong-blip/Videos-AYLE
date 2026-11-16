@@ -45,7 +45,7 @@ Objectif fixé par Leans (15/11/2026) : **tenir 3 vidéos par jour jusqu'au reno
 
 ## Publication
 1. `vidiq_video_upload` avec l'URL `https://raw.githubusercontent.com/leansayong-blip/Videos-AYLE/main/<fichier>.mp4`.
-2. `vidiq_social_post_draft_create` : une publication par vidéo, destinations selon `config.json` (respecter les thèmes par compte), YouTube : titre accrocheur + `#shorts`, privacyStatus public, description (accroche, question pour commentaires, abonnement, crédits photographes ; pour une storytime : « Inspiré d'une histoire vraie »), 10-12 tags. Instagram/TikTok : légende courte + question + 8-10 hashtags (mélange larges et de niche, toujours #ayleco). publishAt = heures de `config.json`.
+2. `vidiq_social_post_draft_create` : une publication par vidéo, destinations selon `config.json` (respecter les thèmes par compte), YouTube : titre accrocheur + `#shorts`, privacyStatus public, description (accroche, question pour commentaires, abonnement, crédits photographes ; pour une storytime : « Inspiré d'une histoire vraie »), tags selon la section « Descriptions et hashtags » ci-dessous. publishAt = heures de `config.json`.
 3. TikTok : seulement si `config.json` → `tiktok` contient privacyLevel, allowComment, musicUsageConfirmed choisis par Leans. Sinon ne pas inclure TikTok et le rappeler.
 4. JAMAIS de publication sur Aylecreate ni 1minute augabon.
 5. Leans a donné son accord permanent pour publier automatiquement (14/11/2026) : `vidiq_social_post_publish` sur chaque brouillon.
@@ -88,3 +88,18 @@ Les crédits Claude de Leans sont limités. Chaque run doit être aussi léger q
 
 ## Discrétion sur la méthode (demande de Leans, 16/11/2026)
 Dans les titres, descriptions, légendes, hashtags et commentaires : **ne jamais citer** les outils ou sources utilisés (ElevenLabs, Reddit ou un subreddit, Upworthy, vidIQ, Claude, etc.). Storytime : écrire seulement « Inspiré d'une histoire vraie ». Les noms des photographes restent crédités (courtoisie), sans citer la banque d'images si Leans le demande. Ne pas toucher aux réglages « contenu IA » des plateformes.
+
+
+## Descriptions et hashtags (demande de Leans, 16/11/2026 : maximiser la portée, hashtags pertinents)
+Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; YouTube ignore tous les hashtags au-delà de 15 ; sur TikTok et Shorts, la pertinence compte plus que le nombre. Les mots-clés dans le texte comptent autant que les hashtags (Instagram et TikTok fonctionnent comme des moteurs de recherche).
+- **Toutes plateformes** : 1re ligne = accroche (vue avant « plus »), avec le mot-clé principal du sujet ; puis une question qui pousse à commenter ; 1 phrase d'appel à s'abonner. Hashtags à la fin, tous liés au contenu. Pas de #viral ; #fyp seulement sur TikTok (1 maximum).
+- **YouTube Shorts** : titre ≤ 70 caractères, accroche + mot-clé, `#shorts` en fin de titre. Description : accroche (2 lignes), question, abonnement, crédits photographes, puis **3 à 5 hashtags** (les 3 premiers s'affichent au-dessus du titre : #shorts + 1 de niche + #ayleco). Champ tags (invisible) : 10 à 12 mots-clés (larges + niche + expressions longues).
+- **Instagram (@laterreduprince, @aytenseigne)** : légende courte, **5 hashtags maximum** : 3 de niche du thème, 1 large, #ayleco.
+- **TikTok** : légende courte avec mots-clés, **4 à 6 hashtags** : 2 à 3 de niche du thème, 1 à 2 larges, #ayleco (+ #fyp ou #pourtoi en option).
+- **Banques par thème** (piocher, ne pas tout mettre) :
+  - Biblique : #bible #foi #jesus #dieu #chretien #versetdujour #priere #histoirebiblique #parolededieu
+  - Storytime : #histoirevraie #storytime #histoire #inspiration #leconsdevie #gentillesse #karma
+  - Motivation : #motivation #discipline #mindset #developpementpersonnel #reussite #perseverance #motivationfr
+  - Humour femmes : #humour #humourfemme #relatable #copines #drole
+  - Humour hommes : #humour #humourhomme #relatable #couple #drole
+- Varier les hashtags d'une vidéo à l'autre (ne pas copier-coller exactement le même bloc), garder #ayleco en marque fixe.
