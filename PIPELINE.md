@@ -11,7 +11,7 @@ Toutes les réponses à Leans : en français, direct, sans compliments, apostrop
 - **Aucun bruit de transition (whoosh, riser).**
 - Logo Ayle&Co (`outils/logo/ayleco_overlay.png`) en haut à gauche, overlay=36:120, fondu d'entrée 0.3 s.
 - Mode créateur vidéo expérimenté : accroche forte dans les 2 premières secondes, Ken Burns, fondus xfade, étalonnage, sous-titres lisibles (InterDisplay Bold, contour noir, mots clés en jaune), fin avec phrase forte.
-- Storytime : histoires vraies trouvées sur Reddit ou dans l'actualité, réécrites ENTIÈREMENT avec nos mots, source citée dans la description. Jamais de personne privée identifiable.
+- Storytime : histoires vraies trouvées sur Reddit ou dans l'actualité, réécrites ENTIÈREMENT avec nos mots. Dans la description, on écrit seulement « Inspiré d'une histoire vraie » (jamais le nom du site, du forum ou du subreddit, ni de lien source). Jamais de personne privée identifiable.
 - Biblique : récit raconté avec nos mots + leçon. Citations uniquement Louis Segond 1910.
 
 ## Thèmes et voix
@@ -45,7 +45,7 @@ Objectif fixé par Leans (15/11/2026) : **tenir 3 vidéos par jour jusqu'au reno
 
 ## Publication
 1. `vidiq_video_upload` avec l'URL `https://raw.githubusercontent.com/leansayong-blip/Videos-AYLE/main/<fichier>.mp4`.
-2. `vidiq_social_post_draft_create` : une publication par vidéo, destinations selon `config.json` (respecter les thèmes par compte), YouTube : titre accrocheur + `#shorts`, privacyStatus public, description (accroche, question pour commentaires, abonnement, crédits photos, source), 10-12 tags. Instagram/TikTok : légende courte + question + 8-10 hashtags (mélange larges et de niche, toujours #ayleco). publishAt = heures de `config.json`.
+2. `vidiq_social_post_draft_create` : une publication par vidéo, destinations selon `config.json` (respecter les thèmes par compte), YouTube : titre accrocheur + `#shorts`, privacyStatus public, description (accroche, question pour commentaires, abonnement, crédits photographes ; pour une storytime : « Inspiré d'une histoire vraie »), 10-12 tags. Instagram/TikTok : légende courte + question + 8-10 hashtags (mélange larges et de niche, toujours #ayleco). publishAt = heures de `config.json`.
 3. TikTok : seulement si `config.json` → `tiktok` contient privacyLevel, allowComment, musicUsageConfirmed choisis par Leans. Sinon ne pas inclure TikTok et le rappeler.
 4. JAMAIS de publication sur Aylecreate ni 1minute augabon.
 5. Leans a donné son accord permanent pour publier automatiquement (14/11/2026) : `vidiq_social_post_publish` sur chaque brouillon.
@@ -84,3 +84,7 @@ Les crédits Claude de Leans sont limités. Chaque run doit être aussi léger q
    - un seul `ArtifactData batch` : update `datasets/videos` (source.url, edit, updated, if_version) + set `datasets/clip_vNN` (title, description, fixed:true, source {format:text, kind:file, name, url}, edit, updated).
 5. **Ne pas appeler** `list_triggers` (réponse énorme) ni lire des fichiers ou outils inutiles. Statut vidIQ : un seul `social_post_status` par publication, après la publication.
 6. Messages à Leans courts.
+
+
+## Discrétion sur la méthode (demande de Leans, 16/11/2026)
+Dans les titres, descriptions, légendes, hashtags et commentaires : **ne jamais citer** les outils ou sources utilisés (ElevenLabs, Reddit ou un subreddit, Upworthy, vidIQ, Claude, etc.). Storytime : écrire seulement « Inspiré d'une histoire vraie ». Les noms des photographes restent crédités (courtoisie), sans citer la banque d'images si Leans le demande. Ne pas toucher aux réglages « contenu IA » des plateformes.
