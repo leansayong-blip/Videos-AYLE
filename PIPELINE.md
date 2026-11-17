@@ -113,3 +113,7 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Visuels : JAMAIS de photos de personnes réelles. Images Unsplash sombres et cinématographiques + noms, dates et chiffres en texte à l'écran (style dossier déclassifié). Logo Ayle&Co en haut à gauche, première image titrée (règle couverture).
 - Description : « Histoire vraie » sans citer de source ni d'outil. Hashtags : #histoirevraie #seriehistoirevraie #thriller #espionnage #business #trading #histoire #ayleco (max 5 Instagram, 4-6 TikTok, 3-5 YouTube + tags cachés).
 - Épisodes prévus : Aldrich Ames, Robert Hanssen, Jensen Huang, Nick Leeson (Barings), Jordan Belfort.
+
+## Thème 6 (à partir de janvier 2027) : histoire politique du Gabon (demande de Leans, 17/11/2026)
+- Contenu : histoire politique du Gabon, hommes politiques, événements importants. Format ~60 s, faits documentés et sourcés (recherche web), ton neutre et factuel, pas d'opinion partisane ni de dialogues inventés. Visuels : Unsplash (aucune photo de personne réelle), noms/dates en texte à l'écran.
+- Ne pas démarrer avant janvier : point avec Leans début janvier 2027 (fréquence, jours, voix, comptes) avant de lancer.
