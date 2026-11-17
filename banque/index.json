@@ -1521,5 +1521,441 @@
     "publication": "2026-11-17"
    }
   ]
+ },
+ {
+  "id": "AR-CkEoNG9A",
+  "fichier": "banque/photos/AR-CkEoNG9A.jpg",
+  "photographe": "Nikolay Vorobyev",
+  "username": "nikolayv",
+  "theme": "Biblique",
+  "description": "grand voilier sur la mer sous un ciel nuageux, lumière du soir (bonne couverture)",
+  "tags": [
+   "bateau",
+   "voilier",
+   "mer",
+   "navire",
+   "ciel",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2432,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "OSWOGVVSrfU",
+  "fichier": "banque/photos/OSWOGVVSrfU.jpg",
+  "photographe": "along 33",
+  "username": "iamalong",
+  "theme": "Biblique",
+  "description": "petit bateau sur une mer sombre sous un ciel d'orage, noir et blanc",
+  "tags": [
+   "bateau",
+   "tempête",
+   "mer",
+   "orage",
+   "sombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "9YvSsGDZHmw",
+  "fichier": "banque/photos/9YvSsGDZHmw.jpg",
+  "photographe": "Chinh Le Duc",
+  "username": "mero_dnt",
+  "theme": "Biblique",
+  "description": "deux baleines dans l'eau bleu profond",
+  "tags": [
+   "baleine",
+   "poisson",
+   "océan",
+   "profondeur",
+   "sous-marin"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "P19iVmm7XUA",
+  "fichier": "banque/photos/P19iVmm7XUA.jpg",
+  "photographe": "Chinh Le Duc",
+  "username": "mero_dnt",
+  "theme": "Biblique",
+  "description": "baleine à bosse sous la surface, eau bleue lumineuse",
+  "tags": [
+   "baleine",
+   "poisson",
+   "océan",
+   "lumière",
+   "sous-marin"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "mM_e5LFdTp0",
+  "fichier": "banque/photos/mM_e5LFdTp0.jpg",
+  "photographe": "Gerald Schömbs",
+  "username": "geerald",
+  "theme": "Biblique",
+  "description": "baleine sous la surface, reflets de lumière",
+  "tags": [
+   "baleine",
+   "poisson",
+   "océan",
+   "surface",
+   "lumière"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "uQDRDqpYJHI",
+  "fichier": "banque/photos/uQDRDqpYJHI.jpg",
+  "photographe": "Cristofer Maximilian",
+  "username": "cristofer",
+  "theme": "Biblique",
+  "description": "plage au coucher du soleil, vagues douces, ciel violet (bonne couverture)",
+  "tags": [
+   "plage",
+   "rivage",
+   "terre",
+   "coucher de soleil",
+   "espoir",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v23",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "hglxYvMqCNQ",
+  "fichier": "banque/photos/hglxYvMqCNQ.jpg",
+  "photographe": "Ashique Anan Abir",
+  "username": "abir89",
+  "theme": "Storytime",
+  "description": "silhouette d'homme seul sur une route de nuit sous un lampadaire",
+  "tags": [
+   "nuit",
+   "route",
+   "marche",
+   "seul",
+   "homme",
+   "silhouette"
+  ],
+  "largeur": 1620,
+  "hauteur": 2417,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "_BJ6E7s9wFc",
+  "fichier": "banque/photos/_BJ6E7s9wFc.jpg",
+  "photographe": "Pavel Pjatakov",
+  "username": "pjpavel",
+  "theme": "Storytime",
+  "description": "jeune homme de dos dans une rue au crépuscule bleu",
+  "tags": [
+   "homme",
+   "rue",
+   "soir",
+   "crépuscule",
+   "jeune",
+   "attente"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "9RuNKDa4dy4",
+  "fichier": "banque/photos/9RuNKDa4dy4.jpg",
+  "photographe": "Amirhosain Gazor",
+  "username": "aidengzr",
+  "theme": "Storytime",
+  "description": "portrait d'un homme barbu à lunettes et bonnet, visage visible",
+  "tags": [
+   "homme",
+   "portrait",
+   "pensif",
+   "barbe"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "rPVCf--rMGk",
+  "fichier": "banque/photos/rPVCf--rMGk.jpg",
+  "photographe": "Pavol Duracka",
+  "username": "palivo_duracka",
+  "theme": "Storytime",
+  "description": "voiture de police gyrophares allumés dans une rue la nuit",
+  "tags": [
+   "police",
+   "voiture",
+   "nuit",
+   "gyrophare",
+   "rue"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "AOIV1umUOQM",
+  "fichier": "banque/photos/AOIV1umUOQM.jpg",
+  "photographe": "Wesley Armstrong",
+  "username": "westhephotographer",
+  "theme": "Storytime",
+  "description": "rue de ville la nuit, néons, voitures garées",
+  "tags": [
+   "ville",
+   "nuit",
+   "rue",
+   "néons",
+   "voitures"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "pJiZUJV0Mgw",
+  "fichier": "banque/photos/pJiZUJV0Mgw.jpg",
+  "photographe": "Ivan Kazlouskij",
+  "username": "ivankazlouskij",
+  "theme": "Storytime",
+  "description": "main qui tend une clé de voiture devant une voiture grise",
+  "tags": [
+   "clé",
+   "voiture",
+   "cadeau",
+   "main",
+   "offrir"
+  ],
+  "largeur": 1620,
+  "hauteur": 2427,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "iDSsOlqFa8w",
+  "fichier": "banque/photos/iDSsOlqFa8w.jpg",
+  "photographe": "yahdi yasya",
+  "username": "yayi1077",
+  "theme": "Storytime",
+  "description": "deux mains, une clé de voiture remise, fond clair (bonne couverture)",
+  "tags": [
+   "clé",
+   "voiture",
+   "cadeau",
+   "mains",
+   "offrir",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "eLpx-DiDLlo",
+  "fichier": "banque/photos/eLpx-DiDLlo.jpg",
+  "photographe": "Anthony Lim",
+  "username": "neonboiiz",
+  "theme": "Motivation",
+  "description": "escalier extérieur avec le soleil qui se lève derrière (bonne couverture)",
+  "tags": [
+   "escalier",
+   "marches",
+   "soleil",
+   "lumière",
+   "progrès",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v25",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "UDK27qXuaro",
+  "fichier": "banque/photos/UDK27qXuaro.jpg",
+  "photographe": "Abenezer Mesfin",
+  "username": "abm1219y",
+  "theme": "Motivation",
+  "description": "escalier en bois éclairé par le soleil couchant",
+  "tags": [
+   "escalier",
+   "marches",
+   "progrès",
+   "lumière"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v25",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "FBn56kNagVo",
+  "fichier": "banque/photos/FBn56kNagVo.jpg",
+  "photographe": "Martino Pietropoli",
+  "username": "martino_pietropoli",
+  "theme": "Motivation",
+  "description": "personne en noir qui monte de grandes marches, ombres graphiques",
+  "tags": [
+   "escalier",
+   "marches",
+   "montée",
+   "effort",
+   "ombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2026,
+  "utilisations": [
+   {
+    "video": "v25",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "_whKPPRf1zA",
+  "fichier": "banque/photos/_whKPPRf1zA.jpg",
+  "photographe": "Florian Hahn",
+  "username": "whoisflo",
+  "theme": "Motivation",
+  "description": "randonneur avec sac à dos au sommet, contre-jour lever de soleil (bonne couverture)",
+  "tags": [
+   "sommet",
+   "randonnée",
+   "réussite",
+   "lever de soleil",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v25",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "7PJtvJozeFU",
+  "fichier": "banque/photos/7PJtvJozeFU.jpg",
+  "photographe": "Nuki Nugraha",
+  "username": "nukinugraha",
+  "theme": "Motivation",
+  "description": "silhouette assise sur une montagne au lever du soleil, ciel orange",
+  "tags": [
+   "sommet",
+   "silhouette",
+   "lever de soleil",
+   "calme",
+   "réussite"
+  ],
+  "largeur": 1620,
+  "hauteur": 2880,
+  "utilisations": [
+   {
+    "video": "v24",
+    "publication": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "id": "E6HnCyug6Mk",
+  "fichier": "banque/photos/E6HnCyug6Mk.jpg",
+  "photographe": "Marco Grosso",
+  "username": "marcozzolo90",
+  "theme": "Motivation",
+  "description": "personne seule au sommet d'une montagne rocheuse au coucher du soleil",
+  "tags": [
+   "sommet",
+   "montagne",
+   "coucher de soleil",
+   "objectif",
+   "réussite"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v25",
+    "publication": "2026-11-18"
+   }
+  ]
  }
 ]
