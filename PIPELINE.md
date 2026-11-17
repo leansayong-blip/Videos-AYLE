@@ -103,3 +103,13 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
   - Humour femmes : #humour #humourfemme #relatable #copines #drole
   - Humour hommes : #humour #humourhomme #relatable #couple #drole
 - Varier les hashtags d'une vidéo à l'autre (ne pas copier-coller exactement le même bloc), garder #ayleco en marque fixe.
+
+## Thème 5 : « Série Histoire Vraie » (ajouté le 17/11/2026)
+- Fréquence : 2 par semaine (mercredi et samedi, créneau 10:00, à la place du Motivation/Humour/Storytime ce jour-là). Publication partout (même comptes que les autres thèmes ; @aytenseigne inclus).
+- Contenu : histoires vraies de style thriller (espionnage, affaires criminelles documentées, business, trading, parcours comme Jensen Huang). Faits documentés uniquement, sans dialogues ni intentions inventés pour des personnes réelles.
+- Durée : ~90 s. Voix Bass, ton posé et tendu. Budget ≈ 1500 crédits ElevenLabs par vidéo : ajuster les autres vidéos du jour pour tenir le budget.
+- Ouverture obligatoire : « Bonjour, nous sommes de retour avec votre série Histoire Vraie. » (à varier légèrement, ex. « Bienvenue dans un nouvel épisode de Série Histoire Vraie »), puis accroche choc.
+- Structure : intro de série, accroche, mise en place, basculement, chute et conséquence, question en commentaire.
+- Visuels : JAMAIS de photos de personnes réelles. Images Unsplash sombres et cinématographiques + noms, dates et chiffres en texte à l'écran (style dossier déclassifié). Logo Ayle&Co en haut à gauche, première image titrée (règle couverture).
+- Description : « Histoire vraie » sans citer de source ni d'outil. Hashtags : #histoirevraie #seriehistoirevraie #thriller #espionnage #business #trading #histoire #ayleco (max 5 Instagram, 4-6 TikTok, 3-5 YouTube + tags cachés).
+- Épisodes prévus : Aldrich Ames, Robert Hanssen, Jensen Huang, Nick Leeson (Barings), Jordan Belfort.

@@ -113,5 +113,16 @@
     "choisi_par_leans_le": "2026-11-14"
   },
   "production": "La tache tourne la veille (14h47) et programme les videos du LENDEMAIN a 05:00, 10:00 et 16:00 (heure de Paris). Theme du jour = rotation du jour de publication.",
-  "regle_themes": "Chaque jour : 1 video Biblique (toujours, publiee a 05:00) + 2 videos en rotation sur Motivation, Humour et Storytime (10:00 et 16:00). Demande de Leans le 15/11/2026."
+  "regle_themes": "Chaque jour : 1 video Biblique (toujours, publiee a 05:00) + 2 videos en rotation sur Motivation, Humour et Storytime (10:00 et 16:00). Demande de Leans le 15/11/2026.",
+  "serie_histoire_vraie": {
+    "jours": [
+      "mercredi",
+      "samedi"
+    ],
+    "heure": "10:00",
+    "duree_s": 90,
+    "voix": "Bass",
+    "visuels": "Unsplash uniquement, aucune photo de personne reelle",
+    "intro": "Bonjour, nous sommes de retour avec votre série Histoire Vraie."
+  }
 }
