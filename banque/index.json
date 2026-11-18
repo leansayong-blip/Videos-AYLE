@@ -1957,5 +1957,449 @@
     "publication": "2026-11-18"
    }
   ]
+ },
+ {
+  "id": "Rx-Q7obUzLQ",
+  "fichier": "banque/photos/Rx-Q7obUzLQ.jpg",
+  "photographe": "George",
+  "username": "geox3",
+  "theme": "Biblique",
+  "description": "muraille antique en pierre, chemin et arbres, lumière claire (bonne couverture)",
+  "tags": [
+   "muraille",
+   "mur",
+   "remparts",
+   "ville",
+   "antique",
+   "jéricho",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2428,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "Cm187aESg0k",
+  "fichier": "banque/photos/Cm187aESg0k.jpg",
+  "photographe": "Adam Hornyak",
+  "username": "adamhornyak",
+  "theme": "Biblique",
+  "description": "long rempart crénelé en pierre sous ciel gris",
+  "tags": [
+   "muraille",
+   "remparts",
+   "forteresse",
+   "ville",
+   "imprenable",
+   "jéricho"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "QVVgB59dos8",
+  "fichier": "banque/photos/QVVgB59dos8.jpg",
+  "photographe": "Melissa Holowaty",
+  "username": "holowat2",
+  "theme": "Biblique",
+  "description": "ruines antiques à flanc de colline, cyprès, ciel bleu",
+  "tags": [
+   "ruines",
+   "antique",
+   "colline",
+   "ville",
+   "marche"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "_A6UbNuWaGI",
+  "fichier": "banque/photos/_A6UbNuWaGI.jpg",
+  "photographe": "Megs Harrison",
+  "username": "mharrisonphotography",
+  "theme": "Biblique",
+  "description": "silhouette soufflant dans un shofar au coucher du soleil sur la mer",
+  "tags": [
+   "trompette",
+   "shofar",
+   "corne",
+   "coucher de soleil",
+   "silhouette",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "fqbwzzAVCG0",
+  "fichier": "banque/photos/fqbwzzAVCG0.jpg",
+  "photographe": "Ben Marler",
+  "username": "benmarler",
+  "theme": "Biblique",
+  "description": "ruines d'un vieux château sur une colline, ciel bleu",
+  "tags": [
+   "ruines",
+   "effondré",
+   "muraille",
+   "chute",
+   "château"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "Aw696LzK2tg",
+  "fichier": "banque/photos/Aw696LzK2tg.jpg",
+  "photographe": "Frolicsome Fairy",
+  "username": "frolicsomefairy",
+  "theme": "Biblique",
+  "description": "soleil à travers une fenêtre dans un mur de pierre en ruine",
+  "tags": [
+   "lumière",
+   "mur",
+   "ouverture",
+   "espoir",
+   "ruines",
+   "percée"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v27",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "OIn0cEu0iQ0",
+  "fichier": "banque/photos/OIn0cEu0iQ0.jpg",
+  "photographe": "Nataliia Hordiiuk",
+  "username": "whynotnatali",
+  "theme": "Humour",
+  "description": "jeune femme qui mange une salade, ambiance chaude (bonne couverture)",
+  "tags": [
+   "femme",
+   "salade",
+   "régime",
+   "manger",
+   "lundi",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "TzN2odwnesg",
+  "fichier": "banque/photos/TzN2odwnesg.jpg",
+  "photographe": "Tetiana Bykovets",
+  "username": "tetiana_bykovets",
+  "theme": "Humour",
+  "description": "tablette de chocolat cassée sur fond blanc",
+  "tags": [
+   "chocolat",
+   "tablette",
+   "gourmandise",
+   "carré"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "pHC7fWhNMaw",
+  "fichier": "banque/photos/pHC7fWhNMaw.jpg",
+  "photographe": "Farhad Ibrahimzade",
+  "username": "ferhadd",
+  "theme": "Humour",
+  "description": "femme tenant un verre de vin devant une assiette, visage hors champ",
+  "tags": [
+   "femme",
+   "vin",
+   "verre",
+   "repas",
+   "soirée"
+  ],
+  "largeur": 1620,
+  "hauteur": 1928,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "EwaJbJvS9io",
+  "fichier": "banque/photos/EwaJbJvS9io.jpg",
+  "photographe": "Julia Zyablova",
+  "username": "foyu",
+  "theme": "Humour",
+  "description": "pile de tablettes de chocolat aux noisettes",
+  "tags": [
+   "chocolat",
+   "tablette",
+   "pile",
+   "gourmandise",
+   "excès"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "0X4BqaaKdj8",
+  "fichier": "banque/photos/0X4BqaaKdj8.jpg",
+  "photographe": "Masoud Razeghi",
+  "username": "masud_razeghi",
+  "theme": "Humour",
+  "description": "femme sur un canapé avec une pizza, lumière violette",
+  "tags": [
+   "femme",
+   "pizza",
+   "canapé",
+   "soirée",
+   "vendredi"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "qMc-HFx5OTI",
+  "fichier": "banque/photos/qMc-HFx5OTI.jpg",
+  "photographe": "Nataliia Hordiiuk",
+  "username": "whynotnatali",
+  "theme": "Humour",
+  "description": "femme souriante qui mange une salade",
+  "tags": [
+   "femme",
+   "salade",
+   "régime",
+   "sourire",
+   "recommencer"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v28",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "yj4kwA4h_Ms",
+  "fichier": "banque/photos/yj4kwA4h_Ms.jpg",
+  "photographe": "Alekon pictures",
+  "username": "alekonpictures",
+  "theme": "Storytime",
+  "description": "mains d'un couple, bague de fiançailles, lumière douce (bonne couverture)",
+  "tags": [
+   "bague",
+   "fiançailles",
+   "couple",
+   "mains",
+   "amour",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "7WAkmnLWKVQ",
+  "fichier": "banque/photos/7WAkmnLWKVQ.jpg",
+  "photographe": "Van Tien Le",
+  "username": "laziness",
+  "theme": "Storytime",
+  "description": "trottoir de ville ensoleillé, passants de loin",
+  "tags": [
+   "ville",
+   "trottoir",
+   "rue",
+   "passants",
+   "soleil"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "r-HLeGnbY-8",
+  "fichier": "banque/photos/r-HLeGnbY-8.jpg",
+  "photographe": "Connor Hall",
+  "username": "connorshoots",
+  "theme": "Storytime",
+  "description": "main tenant des pièces de monnaie, fond sombre",
+  "tags": [
+   "pièces",
+   "monnaie",
+   "argent",
+   "main",
+   "manche",
+   "pauvre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "aT6kawD0RcE",
+  "fichier": "banque/photos/aT6kawD0RcE.jpg",
+  "photographe": "Jake Pierrelee",
+  "username": "jvkeus",
+  "theme": "Storytime",
+  "description": "main avec bague en diamant, fond sombre",
+  "tags": [
+   "bague",
+   "diamant",
+   "main",
+   "fiançailles",
+   "sombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "2YNg4NpGw9k",
+  "fichier": "banque/photos/2YNg4NpGw9k.jpg",
+  "photographe": "Jael Rodriguez",
+  "username": "jr_photos",
+  "theme": "Storytime",
+  "description": "rue de ville avec gratte-ciel et passants, jour",
+  "tags": [
+   "ville",
+   "rue",
+   "foule",
+   "passants",
+   "inconnus"
+  ],
+  "largeur": 1620,
+  "hauteur": 1999,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "kV8c_1YvTzs",
+  "fichier": "banque/photos/kV8c_1YvTzs.jpg",
+  "photographe": "Daniel Gutko",
+  "username": "whatsupitsdan",
+  "theme": "Storytime",
+  "description": "gros plan de deux mains, bague de fiançailles",
+  "tags": [
+   "bague",
+   "couple",
+   "mains",
+   "fiançailles",
+   "amour"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "id": "9WhqL1ais6M",
+  "fichier": "banque/photos/9WhqL1ais6M.jpg",
+  "photographe": "Alexander Mass",
+  "username": "alexandermassph",
+  "theme": "Storytime",
+  "description": "deux mains qui se tendent l'une vers l'autre, dehors",
+  "tags": [
+   "mains",
+   "entraide",
+   "lien",
+   "gentillesse",
+   "espoir"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v29",
+    "publication": "2026-11-19"
+   }
+  ]
  }
 ]
