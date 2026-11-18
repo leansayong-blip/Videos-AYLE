@@ -117,3 +117,8 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 ## Thème 6 (à partir de janvier 2027) : histoire politique du Gabon (demande de Leans, 17/11/2026)
 - Contenu : histoire politique du Gabon, hommes politiques, événements importants. Format ~60 s, faits documentés et sourcés (recherche web), ton neutre et factuel, pas d'opinion partisane ni de dialogues inventés. Visuels : Unsplash (aucune photo de personne réelle), noms/dates en texte à l'écran.
 - Ne pas démarrer avant janvier : point avec Leans début janvier 2027 (fréquence, jours, voix, comptes) avant de lancer.
+
+## Varier le fond sonore (demande de Leans, 18/11/2026)
+- De temps en temps (environ 1 vidéo sur 3), changer le « background » : ne pas toujours reprendre la même musique de fond. Varier la progression d'accords, le tempo (BPM), le timbre (piano, pad, cordes douces) et l'ambiance selon le thème (Série Histoire Vraie : sombre et tendu ; Biblique : doux et lumineux ; Humour : léger ; Motivation : montée progressive).
+- Le volume reste TOUJOURS bas (jamais fort), sans whoosh ni bruit de transition.
+- Si Leans voulait dire le fond visuel (style des images), alterner aussi de temps en temps les ambiances d'images (étalonnage chaud/froid, noir et blanc, plans larges/serrés).
