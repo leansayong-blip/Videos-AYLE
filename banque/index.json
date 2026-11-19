@@ -2401,5 +2401,434 @@
     "publication": "2026-11-19"
    }
   ]
+ },
+ {
+  "id": "YXTkwTn5Snk",
+  "fichier": "banque/photos/YXTkwTn5Snk.jpg",
+  "photographe": "Ismail Nv",
+  "username": "pingoex",
+  "theme": "Biblique",
+  "description": "deux personnes construisant un grand bateau en bois sur une plage",
+  "tags": [
+   "bateau",
+   "construction",
+   "bois",
+   "plage",
+   "arche",
+   "noé",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2880,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "wnfJ2XO_pbI",
+  "fichier": "banque/photos/wnfJ2XO_pbI.jpg",
+  "photographe": "Ismail Nv",
+  "username": "pingoex",
+  "theme": "Biblique",
+  "description": "coque d'un grand bateau en bois en construction, ouvriers",
+  "tags": [
+   "bateau",
+   "coque",
+   "construction",
+   "bois",
+   "arche",
+   "travail"
+  ],
+  "largeur": 1620,
+  "hauteur": 2880,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "eyxN-VolPPc",
+  "fichier": "banque/photos/eyxN-VolPPc.jpg",
+  "photographe": "Ismail Nv",
+  "username": "pingoex",
+  "theme": "Biblique",
+  "description": "charpentier qui cloue une planche sur un bateau",
+  "tags": [
+   "charpentier",
+   "planche",
+   "marteau",
+   "bateau",
+   "travail",
+   "persévérance"
+  ],
+  "largeur": 1620,
+  "hauteur": 2880,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "aCkeQKrQc_c",
+  "fichier": "banque/photos/aCkeQKrQc_c.jpg",
+  "photographe": "Yukon Haughton",
+  "username": "ydlh",
+  "theme": "Biblique",
+  "description": "mer sombre sous un ciel nuageux d'orage",
+  "tags": [
+   "mer",
+   "orage",
+   "nuages",
+   "sombre",
+   "tempête",
+   "déluge"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "2rTOb5lg-dM",
+  "fichier": "banque/photos/2rTOb5lg-dM.jpg",
+  "photographe": "Jason Richard",
+  "username": "jasonthedesigner",
+  "theme": "Biblique",
+  "description": "vagues qui se brisent au coucher du soleil",
+  "tags": [
+   "vagues",
+   "mer",
+   "océan",
+   "coucher",
+   "eau"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "Zu5eyzwwPpU",
+  "fichier": "banque/photos/Zu5eyzwwPpU.jpg",
+  "photographe": "Marcus Woodbridge",
+  "username": "marcuswoodbridge",
+  "theme": "Biblique",
+  "description": "arc-en-ciel au-dessus d'une plage sous ciel nuageux",
+  "tags": [
+   "arc-en-ciel",
+   "promesse",
+   "ciel",
+   "plage",
+   "espoir",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2428,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "Q5AK0unEctU",
+  "fichier": "banque/photos/Q5AK0unEctU.jpg",
+  "photographe": "Birger Strahl",
+  "username": "bist31",
+  "theme": "Biblique",
+  "description": "arc-en-ciel au-dessus d'une savane africaine",
+  "tags": [
+   "arc-en-ciel",
+   "afrique",
+   "savane",
+   "promesse",
+   "espoir"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v30",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "9y4MaTz2Js0",
+  "fichier": "banque/photos/9y4MaTz2Js0.jpg",
+  "photographe": "Aaron Brogden",
+  "username": "aaronbrogden",
+  "theme": "Motivation",
+  "description": "homme musclé avec casque audio dans une salle de sport sombre",
+  "tags": [
+   "sport",
+   "salle",
+   "discipline",
+   "musculation",
+   "homme",
+   "sombre",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2431,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "3WSidr2Yqkc",
+  "fichier": "banque/photos/3WSidr2Yqkc.jpg",
+  "photographe": "Andrii Solok",
+  "username": "getslower",
+  "theme": "Motivation",
+  "description": "salle de sport vide et sombre",
+  "tags": [
+   "salle",
+   "sport",
+   "vide",
+   "sombre",
+   "discipline",
+   "matin"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "1J6oEUhEWU4",
+  "fichier": "banque/photos/1J6oEUhEWU4.jpg",
+  "photographe": "Jorge Alberto Vega Barrera",
+  "username": "shot_by_pancake",
+  "theme": "Motivation",
+  "description": "homme qui court sur une piste au lever du soleil",
+  "tags": [
+   "course",
+   "piste",
+   "lever",
+   "soleil",
+   "effort",
+   "homme"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "KoO8M0ySZBE",
+  "fichier": "banque/photos/KoO8M0ySZBE.jpg",
+  "photographe": "Clay LeConey",
+  "username": "clayleconey",
+  "theme": "Motivation",
+  "description": "homme debout devant une fenêtre couverte de pluie",
+  "tags": [
+   "fenêtre",
+   "pluie",
+   "regret",
+   "pensif",
+   "homme",
+   "solitude"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "OqyVgMh80v4",
+  "fichier": "banque/photos/OqyVgMh80v4.jpg",
+  "photographe": "Orkhan Sweden",
+  "username": "orkhansweden",
+  "theme": "Motivation",
+  "description": "homme regardant par une fenêtre, noir et blanc",
+  "tags": [
+   "fenêtre",
+   "regret",
+   "pensif",
+   "noir et blanc",
+   "homme"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "1-nuy7fD3fw",
+  "fichier": "banque/photos/1-nuy7fD3fw.jpg",
+  "photographe": "Jorge Alberto Vega Barrera",
+  "username": "shot_by_pancake",
+  "theme": "Motivation",
+  "description": "coureur qui sprinte sur une piste, lumière dorée",
+  "tags": [
+   "course",
+   "sprint",
+   "piste",
+   "lumière",
+   "victoire",
+   "effort"
+  ],
+  "largeur": 1620,
+  "hauteur": 2025,
+  "utilisations": [
+   {
+    "video": "v31",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "Eh4mdTd8jrY",
+  "fichier": "banque/photos/Eh4mdTd8jrY.jpg",
+  "photographe": "gaspar zaldo",
+  "username": "gasparzaldo",
+  "theme": "Humour",
+  "description": "homme allongé au lit avec de la nourriture sur les genoux",
+  "tags": [
+   "homme",
+   "lit",
+   "malade",
+   "canapé",
+   "paresse",
+   "humour"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v32",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "FEBkabKgFhQ",
+  "fichier": "banque/photos/FEBkabKgFhQ.jpg",
+  "photographe": "Aedrian Salazar",
+  "username": "aedrian",
+  "theme": "Humour",
+  "description": "homme allongé au lit sous une couverture, pénombre",
+  "tags": [
+   "homme",
+   "lit",
+   "couverture",
+   "malade",
+   "rhume",
+   "fatigue"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v32",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "fWe9QklMGOs",
+  "fichier": "banque/photos/fWe9QklMGOs.jpg",
+  "photographe": "Rodrigo Rodrigues | WOLF ART",
+  "username": "wolfart32",
+  "theme": "Humour",
+  "description": "personne allongée sur un lit",
+  "tags": [
+   "lit",
+   "allongé",
+   "malade",
+   "repos",
+   "dramatique"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v32",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "gu8Sf5FbGlc",
+  "fichier": "banque/photos/gu8Sf5FbGlc.jpg",
+  "photographe": "Szabo Viktor",
+  "username": "vmxhu",
+  "theme": "Humour",
+  "description": "mains tenant une tasse rouge, thé chaud",
+  "tags": [
+   "tasse",
+   "thé",
+   "soupe",
+   "hiver",
+   "chaud",
+   "soin"
+  ],
+  "largeur": 1620,
+  "hauteur": 2055,
+  "utilisations": [
+   {
+    "video": "v32",
+    "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "u2V6oMMEYB0",
+  "fichier": "banque/photos/u2V6oMMEYB0.jpg",
+  "photographe": "Mathias Reding",
+  "username": "matreding",
+  "theme": "Humour",
+  "description": "femme qui marche sur un trottoir en ville",
+  "tags": [
+   "femme",
+   "ville",
+   "marche",
+   "courses",
+   "active"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v32",
+    "publication": "2026-11-20"
+   }
+  ]
  }
 ]

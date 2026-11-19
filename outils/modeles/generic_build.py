@@ -37,13 +37,16 @@ for i, (nm, src, z0, z1, seg, tr, td, ex, anc) in enumerate(S):
 YEL = (255, 214, 64)
 def cap_png(name, text, size=66, y=1360, font=BOLD, maxw=900, stroke=7, color=(255,255,255)):
     f = ImageFont.truetype(font, size); img = Image.new("RGBA", (W, H), (0,0,0,0)); d = ImageDraw.Draw(img)
-    toks = text.split(); lines = []; cur = []
+    lines = []
     clean = lambda w: w.replace('*', '').replace('~', ' ')
-    for w in toks:
-        trial = " ".join(clean(x) for x in cur+[w])
-        if d.textlength(trial, font=f) > maxw and cur: lines.append(cur); cur = [w]
-        else: cur.append(w)
-    lines.append(cur); lh = int(size*1.2); y0 = y - len(lines)*lh//2
+    for para in text.split("\n"):  # "\n" = retour a la ligne force
+        cur = []
+        for w in para.split():
+            trial = " ".join(clean(x) for x in cur+[w])
+            if d.textlength(trial, font=f) > maxw and cur: lines.append(cur); cur = [w]
+            else: cur.append(w)
+        lines.append(cur)
+    lh = int(size*1.2); y0 = y - len(lines)*lh//2
     sh = Image.new("RGBA", (W, H), (0,0,0,0)); sd = ImageDraw.Draw(sh)
     for k, ln in enumerate(lines):
         words = [clean(w) for w in ln]; full = " ".join(words)
@@ -121,6 +124,18 @@ for i in range(200):
         for det in (-0.1, 0.1): pad[s0:s1] += 0.02*saw(hz(m)*(1+det/100), tt[s0:s1])*e
 mus += lp(pad, 1400)*cfg.PAD
 rng = np.random.default_rng(3)
+TRAP = getattr(cfg, "TRAP", 0)  # couche trap douce (808 + hi-hats discrets), 0 = aucune
+if TRAP:
+    drums = np.zeros(n); b8 = beat/2; tb = cfg.TRAP_FROM; j = 0
+    while tb < END-2.0:
+        s0 = int(tb*SR)
+        if j % 8 in (0, 3) or (j % 16 == 13):  # 808 grave avec glissement
+            L = min(int(0.9*SR), n-s0); t_ = np.arange(L)/SR
+            f = 55*(1+0.6*np.exp(-t_*30)); drums[s0:s0+L] += 0.5*np.sin(2*np.pi*np.cumsum(f)/SR)*np.exp(-t_*3.2)
+        L = min(int(0.05*SR), n-s0); hh = lp(rng.normal(0, 1, L), 9000) - lp(rng.normal(0, 1, L), 5000)
+        drums[s0:s0+L] += (0.05 if j % 2 else 0.03)*hh*np.exp(-np.arange(L)/SR*90)
+        tb += b8; j += 1
+    mus += TRAP*drums
 ir_len = int(2.6*SR); ir = rng.normal(0, 1, ir_len)*np.exp(-np.arange(ir_len)/SR*2.4); ir = lp(ir, 5000); ir /= np.sqrt(np.sum(ir**2))
 mus = 0.75*mus + 0.4*fftconvolve(mus, ir)[:n]
 mus *= np.clip(tt/0.8, 0, 1)*np.clip((END-tt)/2.5, 0, 1)
