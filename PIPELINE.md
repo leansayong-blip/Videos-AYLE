@@ -136,3 +136,4 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Derniere video Chimera autorisee : Histoire Vraie Leeson/Barings (presentateur IA, creatify-aurora 7 636 credits : image 190 + voix intro 149 + voix recit 754 + clip 7 636).
 - Couts mesures : creatify-aurora 8,5 s = 7 636 ; omnihuman-v1.5 = 9 631 ; image presentateur 190. Sortie aurora 1280x704 (recadrage 9:16 centre, un peu flou).
 - Persona definitive (meme visage a chaque fois) : a definir apres le 14/12.
+- Ordre du jour du point du 14/12 : (1) Kling AI en direct (clips d'ambiance + Avatar photo->video parlante ; entree < moitie du Starter Higgsfield, 1er mois 6,99 $) - prix a reverifier le jour meme ; (2) comparer avec HeyGen/Hedra pour le presentateur recurrent ; (3) budget mensuel max de Leans ; (4) GPU de Leans pour WanGP local. Higgsfield ecarte : illimite non accessible via MCP/CLI, credits qui expirent.
