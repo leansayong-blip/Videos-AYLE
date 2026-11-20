@@ -122,3 +122,10 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - **Changer SOUVENT** la musique de fond (Leans, 18/11/2026 : « change souvent ») : jamais la même deux vidéos de suite. Styles demandés : piano émotionnel, trap (808 doux, hi-hats discrets), R&B (accords chauds, rythme lent), thriller (sombre, tendu), plus pad/cordes douces. Choix par thème : Série Histoire Vraie = thriller ; Biblique = piano émotionnel ou pad doux ; Motivation = trap ou piano qui monte ; Humour = R&B/trap léger ; Storytime = piano émotionnel ou thriller léger. Tout est composé en local (numpy), 0 crédit. Varier la progression d'accords, le tempo (BPM), le timbre (piano, pad, cordes douces) et l'ambiance selon le thème (Série Histoire Vraie : sombre et tendu ; Biblique : doux et lumineux ; Humour : léger ; Motivation : montée progressive).
 - Le volume reste TOUJOURS bas (jamais fort), sans whoosh ni bruit de transition.
 - Si Leans voulait dire le fond visuel (style des images), alterner aussi de temps en temps les ambiances d'images (étalonnage chaud/froid, noir et blanc, plans larges/serrés).
+
+## Videos Chimera (decision de Leans le 20/11/2026)
+- 2 videos Chimera par semaine : 1 Biblique + 1 Histoire Vraie (style CIA/Ames et autres sujets vraiment instructifs). Les clips IA (connecteur ElevenLabs Chimera, creative_generate_video) sont melanges aux photos Unsplash, la voix Bass reste la meme.
+- Cout mesure le 20/11 : 1 clip ltx-v2-fast = 1 454 credits (modele le moins cher) ; Seedance 2.5 flash = 9 163 credits (a ne pas utiliser). Une video classique = 250 a 350 credits (Histoire Vraie 90 s = 1 170).
+- Toujours faire creative_generate_video avec estimate_only=true avant de lancer, et annoncer le cout a Leans. Maximum 2 clips ltx-v2-fast par video, le reste en photos Unsplash.
+- Le budget credits ne suffit pas pour 2 Chimera/semaine + 3 videos/jour : le point du dimanche recalcule et ajuste (moins de videos classiques ou option d'abonnement superieur).
+- Publication : tous les comptes habituels ; la video Proverbes du 20/11 est publiee partout SAUF @aytenseigne (demande de Leans).
