@@ -130,3 +130,9 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Le budget credits ne suffit pas pour 2 Chimera/semaine + 3 videos/jour : le point du dimanche recalcule et ajuste (moins de videos classiques ou option d'abonnement superieur).
 - Publication : tous les comptes habituels ; la video Proverbes du 20/11 est publiee partout SAUF @aytenseigne (demande de Leans).
 - Videos Chimera (demande de Leans le 20/11) : mettre SOUVENT des personnes qui parlent face a la camera (presentateur/narrateur genere par IA, jamais le visage d'une personne reelle ni d'une personnalite), en alternance avec les photos Unsplash et les clips d'ambiance. Modeles pour la parole face camera : veo-3.1 (dialogue), creatify-aurora ou bytedance-omnihuman-v1.5 (image + voix Bass), heygen-avatar. Toujours estimer le cout (estimate_only) avant de lancer et le dire a Leans. Cocher l'option « contenu genere par IA » a la publication quand un personnage genere parle (TikTok isAiGenerated, YouTube).
+
+## PAUSE Chimera jusqu'au 14/12/2026 (decision de Leans le 20/11/2026)
+- Plus aucune video Chimera (clips IA, presentateur parlant) avant le point du 14/12 sur l'augmentation de l'abonnement. Production habituelle uniquement (3 videos/jour, voix + Unsplash).
+- Derniere video Chimera autorisee : Histoire Vraie Leeson/Barings (presentateur IA, creatify-aurora 7 636 credits : image 190 + voix intro 149 + voix recit 754 + clip 7 636).
+- Couts mesures : creatify-aurora 8,5 s = 7 636 ; omnihuman-v1.5 = 9 631 ; image presentateur 190. Sortie aurora 1280x704 (recadrage 9:16 centre, un peu flou).
+- Persona definitive (meme visage a chaque fois) : a definir apres le 14/12.
