@@ -161,3 +161,9 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Formats courts (~15 s, ~220 credits) sauf Histoire Vraie (~45 s, ~750) et Biblique Kling (~300). Budget cible ~4 300 credits ElevenLabs par semaine.
 - Envois YouTube : 4 par jour (2 videos x 2 chaines) pour un quota vidIQ de 3 -> la 2e chaine de la video du soir peut passer le lendemain apres 09:00.
 - Posture demandee par Leans : employe expert en creation video, critique et exigeant sur la qualite (accroche des 2 premieres secondes, rythme, synchronisation, lisibilite), sans complaisance.
+
+## REGLE ABSOLUE AUDIO EN FRANCAIS (21/11/2026, 00:10 - incident v44/v45)
+- Incident : le clip Kling (omni_ref_video) ne reprend PAS l'audio fourni en audio_1 : il genere sa propre parole, dans une langue inventee (detectee coreen/chinois). La v45 Apocalypse est sortie ainsi sur TikTok et @laterreduprince (a supprimer par Leans), la v44 Elie etait programmee ainsi (corrigee avant sortie).
+- Desormais, pour TOUT clip Kling : on remplace la piste son du clip par la voix ElevenLabs francaise (dans vidiq_compose : scene Kling avec keepNativeAudio false et la voix en voiceover, ou remplacement local avec ffmpeg). Jamais l'audio natif d'un clip Kling.
+- Avant CHAQUE publication (toutes les videos, pas seulement Kling) : lancer `python3 outils/check_langue.py <video.mp4>` (detection automatique de langue, fenetres de 8 s). Toutes les fenetres avec voix doivent sortir [fr] ; seules les fins purement musicales ([Music]) sont tolerees. Sinon : NE PAS publier, corriger d'abord. Ne jamais utiliser asr_segments.py pour ce controle (il force le francais et masque le probleme).
+- Ne jamais publier les brouillons YouTube du post 23b45f81-222d-4b82-ab8b-c3cf999b133f (ancienne v45 non francaise). La v45 corrigee est le post 7c11eedb-a26f-4093-a290-d8666049ec97 (YouTube TheOne et Ayle&Co a rattraper apres 09:00).
