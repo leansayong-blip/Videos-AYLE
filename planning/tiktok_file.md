@@ -4,6 +4,8 @@ Fonctionnement : chaque video produite est ajoutee en bas de la file (si elle n'
 Verifie le 21/11 : les 38 videos deja sorties sur YouTube depuis le 14/11 sont toutes aussi sur TikTok.
 
 ## File (ordre de passage)
-1. 22/11 18:00 - Elie, 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c) - DEJA PROGRAMMEE
+1. 22/11 18:00 - Elie, 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c) - DEJA PROGRAMMEE (verifie 21/11 23:00, a retirer apres sortie)
 2. Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e, destination TikTok en brouillon)
 3. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, destination TikTok en brouillon)
+
+Verifie 21/11 23:00 : videos sorties sur YouTube le 21/11 (v39, v40, v41) toutes deja sur TikTok. File apres le 22/11 : 2 videos (v46, v47) -> v46 a programmer pour le 23/11 18:00 par la tache de 14:47 du 22/11.
