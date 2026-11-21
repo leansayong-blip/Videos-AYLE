@@ -190,5 +190,5 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 
 ## SERIE « L'HISTOIRE DE LIAM » (decision de Leans le 21/11, 23:01)
 - Tout est dans series/liam/README.md (lire en entier) et dans la bible Claude Docs dont le lien y figure (scripts des episodes 1 a 3).
-- Jusqu'au 14/12 : 1 episode par semaine, le lundi 03:33 (Instagram @laterreduprince + YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du DIMANCHE produit l'episode du lundi.
+- Jusqu'au 14/12 : 1 episode par semaine, le lundi 03:33 sur TOUS les comptes (Instagram @laterreduprince + @aytenseigne, YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du DIMANCHE produit l'episode du lundi.
 - Point du 14/12 : passer a 2 episodes/semaine (lundi et jeudi), budget ElevenLabs/Kling (forfait superieur), bilan des vues de la serie.
