@@ -197,3 +197,7 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Planning de la semaine du 22 au 29/11 valide tel quel.
 - YouTube : on garde les 2 chaines et le vidIQ gratuit (3 envois/jour). Ordre de priorite des envois YouTube chaque jour apres 09:00 : 1) episode de Liam, 2) video Kling du jour, 3) Serie Histoire Vraie, 4) Biblique, 5) rotation 16:00 ; une video sort sur TheOne avant Ayle&Co ; le retard est accepte. Pas d'abonnement payant sans accord explicite de Leans (a rediscuter au point du 14/12).
 - Budget jusqu'au 14/12 : priorites deja ecrites (Liam et Biblique d'abord, 16:00 supprimee en premier si les credits ElevenLabs manquent ; Kling : Liam prioritaire).
+
+## YOUTUBE : THEONE PRIORITAIRE (decision de Leans le 21/11, 23:18 ; remplace l'ordre de priorite du point du 22/11)
+- Les 3 envois YouTube quotidiens servent d'abord TheOne (videos du jour, puis retard TheOne), et seulement ensuite Ayle&Co, qui recoit toutes les videos de TheOne en differe. Fichier de suivi : planning/youtube_file.md (files A et B). Ex. : lundi 3 videos -> 3 sur TheOne, 0 sur Ayle&Co ; jour a 2 videos -> 2 sur TheOne + 1 envoi de rattrapage.
+- Les publications vers Ayle&Co ne sont plus programmees avec la video du jour : elles restent dans la file B.
