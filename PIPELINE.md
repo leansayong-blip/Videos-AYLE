@@ -187,3 +187,8 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Toujours, sur toutes les plateformes : jamais de video en plus hors planning, jamais de rafale, jamais de republication ou doublon, au moins 6 h entre deux posts TikTok. Si vidIQ renvoie un avertissement pacing « too_close », NE PAS publier a cette heure : prendre l'heure suggeree ou le creneau suivant.
 - MISE A JOUR 21/11 21:22 (option 2 choisie par Leans) : TOUT ce qui sort sur YouTube doit aussi sortir sur TikTok, via la file d'attente planning/tiktok_file.md (1/jour a 18:00 jusqu'au 28/11, puis 2/jour a 12:00 et 19:00 des le 29/11). Le bilan du 29/11 sert seulement a ajuster les heures, pas a abandonner des videos.
 - Brouillons TikTok mis de cote le 21/11 (desormais dans la file planning/tiktok_file.md) : Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e) et Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e) ; ils peuvent servir de reserve TikTok les jours sans video.
+
+## SERIE « L'HISTOIRE DE LIAM » (decision de Leans le 21/11, 23:01)
+- Tout est dans series/liam/README.md (lire en entier) et dans la bible Claude Docs dont le lien y figure (scripts des episodes 1 a 3).
+- Jusqu'au 14/12 : 1 episode par semaine, le lundi 03:33 (Instagram @laterreduprince + YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du DIMANCHE produit l'episode du lundi.
+- Point du 14/12 : passer a 2 episodes/semaine (lundi et jeudi), budget ElevenLabs/Kling (forfait superieur), bilan des vues de la serie.
