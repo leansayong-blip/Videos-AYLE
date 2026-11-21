@@ -192,3 +192,8 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Tout est dans series/liam/README.md (lire en entier) et dans la bible Claude Docs dont le lien y figure (scripts des episodes 1 a 3).
 - Jusqu'au 14/12 : 1 episode par semaine, le lundi 03:33 sur TOUS les comptes (Instagram @laterreduprince + @aytenseigne, YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du DIMANCHE produit l'episode du lundi.
 - Point du 14/12 : passer a 2 episodes/semaine (lundi et jeudi), budget ElevenLabs/Kling (forfait superieur), bilan des vues de la serie.
+
+## POINT DU DIMANCHE 22/11 TRAITE EN AVANCE (Leans, 21/11 23:13 : « gardons cela, faisons comme tu dis et gere »)
+- Planning de la semaine du 22 au 29/11 valide tel quel.
+- YouTube : on garde les 2 chaines et le vidIQ gratuit (3 envois/jour). Ordre de priorite des envois YouTube chaque jour apres 09:00 : 1) episode de Liam, 2) video Kling du jour, 3) Serie Histoire Vraie, 4) Biblique, 5) rotation 16:00 ; une video sort sur TheOne avant Ayle&Co ; le retard est accepte. Pas d'abonnement payant sans accord explicite de Leans (a rediscuter au point du 14/12).
+- Budget jusqu'au 14/12 : priorites deja ecrites (Liam et Biblique d'abord, 16:00 supprimee en premier si les credits ElevenLabs manquent ; Kling : Liam prioritaire).
