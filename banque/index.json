@@ -1725,7 +1725,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v46",
+    "publication": "2026-11-22"
+   }
+  ]
  },
  {
   "id": "rPVCf--rMGk",
@@ -2828,6 +2833,193 @@
    {
     "video": "v32",
     "publication": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "id": "Pb0d4uVrqto",
+  "fichier": "banque/photos/Pb0d4uVrqto.jpg",
+  "photographe": "Corey Serravite",
+  "username": "cozza",
+  "theme": "Humour",
+  "description": "homme casquette au volant, mer en fond (logo volant a flouter)",
+  "tags": [
+   "voiture",
+   "conduite",
+   "volant",
+   "homme",
+   "route",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v46",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "6VKUTBLbigM",
+  "fichier": "banque/photos/6VKUTBLbigM.jpg",
+  "photographe": "Rodrigo Araya",
+  "username": "rodrigotypo",
+  "theme": "Humour",
+  "description": "femme inquiete en voiture, regard de cote",
+  "tags": [
+   "voiture",
+   "femme",
+   "inquiete",
+   "agacee",
+   "passagere"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v46",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "gvWGbG4uiKI",
+  "fichier": "banque/photos/gvWGbG4uiKI.jpg",
+  "photographe": "Adrien Olichon",
+  "username": "adrienolichon",
+  "theme": "Humour",
+  "description": "interieur de boulangerie vu d'en haut, vitrine de pains",
+  "tags": [
+   "boulangerie",
+   "pain",
+   "magasin",
+   "vitrine"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v46",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "kPR-VSkcrfc",
+  "fichier": "banque/photos/kPR-VSkcrfc.jpg",
+  "photographe": "Hans",
+  "username": "hansphoto",
+  "theme": "Humour",
+  "description": "femme en voiture qui grimace, langue tiree",
+  "tags": [
+   "voiture",
+   "femme",
+   "grimace",
+   "drole",
+   "reaction"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v46",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "hXSv0HsFpi0",
+  "fichier": "banque/photos/hXSv0HsFpi0.jpg",
+  "photographe": "Kristopher Villa",
+  "username": "kristopheravilla",
+  "theme": "Motivation",
+  "description": "jeune homme sur un toit face a la ville au crepuscule (bonne couverture)",
+  "tags": [
+   "ville",
+   "toit",
+   "homme",
+   "crepuscule",
+   "ambition",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v47",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "fLE3hHRyc6I",
+  "fichier": "banque/photos/fLE3hHRyc6I.jpg",
+  "photographe": "Thomas Thompson",
+  "username": "thomasthompson_raw",
+  "theme": "Motivation",
+  "description": "silhouette d'homme qui marche seul dans le brouillard la nuit",
+  "tags": [
+   "nuit",
+   "brouillard",
+   "marche",
+   "seul",
+   "homme",
+   "silhouette"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v47",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "q5QXU-97_i0",
+  "fichier": "banque/photos/q5QXU-97_i0.jpg",
+  "photographe": "Warren",
+  "username": "wflwong",
+  "theme": "Motivation",
+  "description": "homme en capuche adosse a un mur de briques la nuit, reflet",
+  "tags": [
+   "nuit",
+   "capuche",
+   "mur",
+   "seul",
+   "reflexion",
+   "rue"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v47",
+    "publication": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "id": "yisJA9Ak1m8",
+  "fichier": "banque/photos/yisJA9Ak1m8.jpg",
+  "photographe": "Brayden Law",
+  "username": "braydenlaw",
+  "theme": "Motivation",
+  "description": "personne de dos face a la ville au coucher du soleil",
+  "tags": [
+   "ville",
+   "coucher de soleil",
+   "espoir",
+   "avenir",
+   "homme"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v47",
+    "publication": "2026-11-22"
    }
   ]
  }
