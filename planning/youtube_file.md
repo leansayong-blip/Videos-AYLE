@@ -7,6 +7,9 @@ Regle : chaque jour, les envois servent dans cet ordre :
 Une video n'est jamais envoyee deux fois sur la meme chaine. A chaque envoi, retirer la ligne de la file et pousser ce fichier.
 Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_social_post_draft_update (title, text, tags, privacyStatus public), puis publier ce publicationId.
 
+## Journal
+- 22/11 09:06 : TheOne = Elie (sortie immediate), Humour « connait le chemin » (10:00), Motivation « Personne ne viendra te sauver » (16:00). Quota du jour utilise. Ayle&Co : rien (file B).
+
 ## File A : retard TheOne
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39-12b3-418c-8475-afaa98e02f04, destination YouTube a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa-b845-4516-b84e-8ac9227defe8, destination YouTube a creer)
