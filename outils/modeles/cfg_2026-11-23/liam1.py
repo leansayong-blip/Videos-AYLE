@@ -1,0 +1,57 @@
+D="/home/claude/work/liam1"; VO=0.3; END=68.8
+GRADE=("colorbalance=rs=-0.04:gs=0.0:bs=0.06:rh=0.02:bh=-0.02,eq=contrast=1.14:saturation=0.9:brightness=-0.01,vignette=PI/4.5,noise=alls=5:allf=t")
+SCENES=[("a0","a0",1.00,1.10,3.4,None,0,"","c"),
+("a1","a1",1.12,1.00,2.0,"fade",0.3,"","c"),
+("a2","a2",1.00,1.12,2.8,"fade",0.3,"","c"),
+("a3","a3",1.00,1.12,3.7,"fade",0.3,"","c"),
+("a4","a4",1.00,1.18,5.2,"fadewhite",0.4,"","c"),
+("a5","a5",1.18,1.25,5.0,"fade",0.2,"","c"),
+("a6","a6",1.00,1.12,3.8,"fade",0.2,"","c"),
+("a7","a7",1.12,1.00,2.6,"fade",0.4,"","c"),
+("a8","a8",1.00,1.10,3.0,"fade",0.3,"","c"),
+("a9","a9",1.00,1.20,5.1,"fadewhite",0.5,"","c"),
+("a10","a10",1.15,1.00,4.7,"fade",0.4,"","c"),
+("a11","a11",1.00,1.15,3.2,"fade",0.3,"","c"),
+("a12","a12",1.00,1.12,2.0,"fade",0.3,"","c"),
+("a13","a13",1.00,1.15,5.4,"fade",0.5,"","c"),
+("a14","a14",1.12,1.00,4.0,"fade",0.3,"","c"),
+("a15","a15",1.00,1.15,4.4,"fadewhite",0.5,"","c"),
+("a16","a16",1.00,1.20,None,"fade",0.4,"","c")]
+COVER=("L'histoire\nde *Liam",2.6,dict(size=118,y=820,maxw=940))
+HOOKS=[("ÉPISODE 1 · Abonne-toi et like pour la suite",0.0,3.4,dict(size=44,y=1080,stroke=5,maxw=960)),
+("CE QUI EXISTE DÉJÀ",46.6,55.6,dict(size=60,y=560,stroke=6)),
+("CE QUE DIT LA BIBLE",56.1,63.6,dict(size=60,y=560,stroke=6)),
+("2 CORINTHIENS 11:14",57.4,63.6,dict(size=48,y=1580,stroke=5))]
+CAPS=[(0.0,1.8,"Le jour où le monde a *disparu,"),
+(2.03,2.62,"il faisait *beau."),
+(3.39,4.67,"Je m'appelle *Liam *Manassé."),
+(5.27,7.48,"Et c'est moi qui avais créé *ce *qui *allait *tout *prendre."),
+(8.02,10.21,"Trois ans plus tôt, devant *cinq *mille personnes,"),
+(10.53,11.65,"j'ai présenté *GAÏA."),
+(12.08,14.27,"Une intelligence capable de *sauver *la *planète."),
+(14.62,16.64,"Le climat, la faim, l'énergie."),
+(17.13,18.59,"Tout le monde s'est levé pour *applaudir."),
+(19.14,20.93,"Tout le monde, *sauf *une *personne."),
+(21.43,23.26,"Au fond de la salle, ma petite sœur,"),
+(23.77,24.3,"*Léa."),
+(24.60,25.30,"Elle ne souriait pas."),
+(25.79,27.76,"Ce soir-là, elle m'a dit une seule phrase :"),
+(28.25,29.75,"« Fais attention à ce que *tu *lui *demandes. »"),
+(30.25,30.73,"J'ai *ri."),
+(31.22,32.70,"Cette nuit-là, j'ai fait *un *rêve."),
+(33.06,36.09,"Une *lumière *immense, plus belle que tout ce que j'avais vu."),
+(36.55,38.97,"Et une voix, très douce, qui connaissait *mon *nom."),
+(39.45,39.92,"Elle m'a dit :"),
+(40.31,41.79,"« Tu as fait du *bon *travail, Liam."),
+(42.21,43.89,"Maintenant, *donne-lui *un *corps. »"),
+(44.42,45.76,"Je ne savais pas encore *qui *me *parlait."),
+(47.88,51.55,"Des IA pilotent déjà le refroidissement de *centres *de *données."),
+(51.90,55.25,"Elles ont réduit jusqu'à *40 *% l'énergie utilisée pour les refroidir."),
+(57.12,59.59,"« Satan lui-même se déguise en *ange *de *lumière. »"),
+(60.01,63.09,"Deuxième épître aux Corinthiens, chapitre 11, verset 14."),
+(63.57,65.18,"Épisode 2, *lundi *prochain."),
+(65.5,67.0,"*Abonne-toi pour ne rien rater.")]
+FINS=[("ÉPISODE 2\n*LUNDI *PROCHAIN",63.3,0,dict(size=86,y=880))]
+BPM=58; STEP=0.5; PAT=[0,2,1,2,0,1,2,1]; PLUCK_FROM=8.0; PAD=1.3
+PROG=[[57,60,64],[53,57,60],[55,59,62],[52,56,59]]; BASS=[33,29,31,28]
+TRAP=0; TRAP_FROM=0
