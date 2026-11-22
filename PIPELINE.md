@@ -205,3 +205,7 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 ## TIKTOK : PAUSE 3 JOURS PUIS 2/JOUR PROGRAMMES EN AVANCE (decision de Leans le 22/11, 09:36 ; remplace les regles TikTok precedentes)
 - Pause TikTok du 22/11 au 24/11 inclus. A partir du 25/11 : 2 videos par jour a 12:00 et 19:00.
 - Tout ce qui sort sur YouTube sort sur TikTok, en retard si besoin. Chaque video recoit son creneau TikTok des sa production et est programmee tout de suite (planning/tiktok_file.md).
+
+## Methode Liam validee le 22/11 (episode 1)
+- References Kling : les decoupes de personnages/ ont un ratio < 0,4 (refuse par omni_ref_video) -> utiliser les versions completees en largeur de series/liam/personnages/kling_ref/<nom>_portrait_pad.jpg et <nom>_pied_pad.jpg (ratio 0,5, fond gris d'origine). Creer la version _pad pour chaque nouveau personnage.
+- Montage : base locale complete (generic_build : photos, voix, musique, sous-titres, logo) avec une image provisoire a l'emplacement du clip Kling, puis vidiq_compose avec UNE scene (la base, keepNativeAudio true) et le clip Kling en overlay video plein cadre (muet) a l'emplacement prevu, + overlays image des sous-titres PNG (clips/cNN.png de generic_build, pousses dans kling/parts/) et du logo pendant le clip. Telecharger le rendu (assets.vidiq.com est accessible), reencoder crf 23, check_langue, puis publier ce fichier depuis GitHub.

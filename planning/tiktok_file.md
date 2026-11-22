@@ -8,8 +8,12 @@ Regles :
 
 ## Creneaux programmes
 - 25/11 12:00 : Elie, 1 Rois 19 (post e69937a6, publication 33fbfd29-0545-49ac-b451-501d636f365b) - PROGRAMME
-- 25/11 19:00 : L'histoire de Liam, episode 1 (a programmer par la tache de 14:47 du 22/11, des sa production) - RESERVE
+- 25/11 19:00 : L'histoire de Liam, episode 1 (post baaa57d6, publication 24a2e9fe-1674-499d-a301-e6c1f9817292) - PROGRAMME
 - 26/11 12:00 : Humour « connait le chemin » (post 1b6663ac, publication 96826ee0-9283-459a-a3ca-458e6b4454d1) - PROGRAMME
 - 26/11 19:00 : Motivation « Personne ne viendra te sauver » (post 5208f621, publication 7b5ce6c6-aec1-446d-82f0-b5e1a9dd6744) - PROGRAMME
 
-## Prochain creneau libre : 27/11 12:00 (puis 27/11 19:00, 28/11 12:00, ...)
+- 27/11 12:00 : Biblique v49 « Fatigue des lundi matin ? » (post 6d699bc6, publication 7b916f55-6f27-4e38-aa37-d428efd2cead) - PROGRAMME
+- 27/11 19:00 : Storytime v50 « Il trouve 42 000 $ par terre » (post a99ac2af, publication 7095c05f-7fa7-4479-be95-3f7047669d13) - PROGRAMME
+
+## Prochain creneau libre : 28/11 12:00 (puis 28/11 19:00, 29/11 12:00, ...)
+Rappel : l'episode 2 de Liam (produit le 29/11) passe devant les videos pas encore programmees.

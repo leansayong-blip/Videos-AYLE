@@ -10,6 +10,8 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 ## Journal
 - 22/11 09:06 : TheOne = Elie (sortie immediate), Humour « connait le chemin » (10:00), Motivation « Personne ne viendra te sauver » (16:00). Quota du jour utilise. Ayle&Co : rien (file B).
 
+- 22/11 14:47 : quota du 22 deja utilise. A ENVOYER EN PRIORITE le 23/11 apres 09:00 (TheOne, videos du jour, publishAt a remettre a l'heure de l'envoi si depasse) : 1) Liam ep1 (post baaa57d6, publication a030b3fb-f749-495e-8ce0-3fe4694bf44f), 2) v49 Biblique (post 6d699bc6, publication 9f88ae02-de91-4dd4-a5e2-3de5f84180b7), 3) v50 Storytime 16:00 (post a99ac2af, publication ac074351-d3f5-4db9-84d6-7da01d0d620c). Quota du 23 = ces 3 envois, rien pour la file A ni B.
+
 ## File A : retard TheOne
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39-12b3-418c-8475-afaa98e02f04, destination YouTube a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa-b845-4516-b84e-8ac9227defe8, destination YouTube a creer)
@@ -22,4 +24,7 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 4. Elie 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c, publication da63783a-5791-4a52-a1c7-4ec47017d5c3)
 5. Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e, publication 82136a27-3634-4803-9cb2-dd733289da87)
 6. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, publication 50b6a891-03ad-4d89-a870-d79789d10a32)
+7. Liam ep1 v48 (post baaa57d6-8a71-43ac-9dff-753edf23834d, publication a7efed3d-8efa-4af4-aecf-f33c340e772b)
+8. Biblique v49 Esaie 40:31 (post 6d699bc6-a1af-4a54-805c-271de8095957, publication a4dd0162-ee1c-4ff9-9a78-c43021ee6ea5)
+9. Storytime v50 42 000 $ (post a99ac2af-1381-437f-8e05-aecc8aa5e378, publication 94ec2e08-7300-4e4c-82cf-83aea4e38553)
 (Ajouter ici chaque nouvelle video, dans l'ordre de sortie sur TheOne.)
