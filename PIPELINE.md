@@ -201,3 +201,7 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 ## YOUTUBE : THEONE PRIORITAIRE (decision de Leans le 21/11, 23:18 ; remplace l'ordre de priorite du point du 22/11)
 - Les 3 envois YouTube quotidiens servent d'abord TheOne (videos du jour, puis retard TheOne), et seulement ensuite Ayle&Co, qui recoit toutes les videos de TheOne en differe. Fichier de suivi : planning/youtube_file.md (files A et B). Ex. : lundi 3 videos -> 3 sur TheOne, 0 sur Ayle&Co ; jour a 2 videos -> 2 sur TheOne + 1 envoi de rattrapage.
 - Les publications vers Ayle&Co ne sont plus programmees avec la video du jour : elles restent dans la file B.
+
+## TIKTOK : PAUSE 3 JOURS PUIS 2/JOUR PROGRAMMES EN AVANCE (decision de Leans le 22/11, 09:36 ; remplace les regles TikTok precedentes)
+- Pause TikTok du 22/11 au 24/11 inclus. A partir du 25/11 : 2 videos par jour a 12:00 et 19:00.
+- Tout ce qui sort sur YouTube sort sur TikTok, en retard si besoin. Chaque video recoit son creneau TikTok des sa production et est programmee tout de suite (planning/tiktok_file.md).

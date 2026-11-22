@@ -1,11 +1,15 @@
-# File d'attente TikTok (decision de Leans du 21/11, option 2)
-Regle : TOUT ce qui sort sur YouTube doit sortir sur TikTok. TikTok publie a son propre rythme : 1 video/jour a 18:00 du 22/11 au 28/11, puis 2/jour (12:00 et 19:00, >= 6 h d'ecart) a partir du 29/11.
-Fonctionnement : chaque video produite est ajoutee en bas de la file (si elle n'est pas deja programmee sur TikTok). Chaque jour, la tache de 14:47 programme sur TikTok la ou les premieres videos de la file pour le lendemain (destination TikTok du meme post vidIQ : draft_update avec publishAt puis publish), puis les retire de la file. Jamais deux fois la meme video. Toujours le controle de langue avant.
-Verifie le 21/11 : les 38 videos deja sorties sur YouTube depuis le 14/11 sont toutes aussi sur TikTok.
+# File TikTok (decisions de Leans du 21/11 et du 22/11 09:36)
+Regles :
+- TOUT ce qui sort sur YouTube sort aussi sur TikTok (en retard, ce n'est pas grave).
+- PAUSE TikTok du 22/11 au 24/11 inclus : aucune publication TikTok ces 3 jours.
+- A partir du 25/11 : 2 videos par jour, a 12:00 et 19:00 (Europe/Paris), >= 6 h d'ecart, jamais de rafale, jamais de doublon.
+- PROGRAMMER EN AVANCE : chaque video produite recoit tout de suite le prochain creneau TikTok libre (ordre de production ; un episode de Liam passe devant les autres videos pas encore programmees), et sa destination TikTok est programmee immediatement (vidiq_social_post_draft_update avec publishAt, puis vidiq_social_post_publish). Noter le creneau ci-dessous.
+- Controle de langue (outils/check_langue.py) avant chaque programmation.
 
-## File (ordre de passage)
-1. 22/11 18:00 - Elie, 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c) - DEJA PROGRAMMEE (verifie 21/11 23:00, a retirer apres sortie)
-2. Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e, destination TikTok en brouillon)
-3. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, destination TikTok en brouillon)
+## Creneaux programmes
+- 25/11 12:00 : Elie, 1 Rois 19 (post e69937a6, publication 33fbfd29-0545-49ac-b451-501d636f365b) - PROGRAMME
+- 25/11 19:00 : L'histoire de Liam, episode 1 (a programmer par la tache de 14:47 du 22/11, des sa production) - RESERVE
+- 26/11 12:00 : Humour « connait le chemin » (post 1b6663ac, publication 96826ee0-9283-459a-a3ca-458e6b4454d1) - PROGRAMME
+- 26/11 19:00 : Motivation « Personne ne viendra te sauver » (post 5208f621, publication 7b5ce6c6-aec1-446d-82f0-b5e1a9dd6744) - PROGRAMME
 
-Verifie 21/11 23:00 : videos sorties sur YouTube le 21/11 (v39, v40, v41) toutes deja sur TikTok. File apres le 22/11 : 2 videos (v46, v47) -> v46 a programmer pour le 23/11 18:00 par la tache de 14:47 du 22/11.
+## Prochain creneau libre : 27/11 12:00 (puis 27/11 19:00, 28/11 12:00, ...)
