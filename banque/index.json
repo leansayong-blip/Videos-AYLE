@@ -3606,5 +3606,102 @@
     "publication": "2026-11-23"
    }
   ]
+ },
+ {
+  "id": "Ch-66-s3ZJ8",
+  "fichier": "banque/photos/Ch-66-s3ZJ8.jpg",
+  "photographe": "Rohan Gupta",
+  "username": "kywylyme",
+  "theme": "Biblique",
+  "description": "oiseaux qui volent au-dessus de la mer au coucher du soleil, lumière dorée (bonne couverture)",
+  "tags": [
+   "oiseaux",
+   "ciel",
+   "mer",
+   "coucher de soleil",
+   "liberté",
+   "paix",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2415,
+  "utilisations": [
+   {
+    "video": "v51",
+    "publication": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "id": "jXHzr2qTvn4",
+  "fichier": "banque/photos/jXHzr2qTvn4.jpg",
+  "photographe": "Samanta Sokolova",
+  "username": "singollare",
+  "theme": "Biblique",
+  "description": "jeune femme assise sur un lit dans la pénombre, pensive",
+  "tags": [
+   "inquiétude",
+   "nuit",
+   "lit",
+   "pensive",
+   "femme",
+   "chambre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v51",
+    "publication": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "id": "CmdolE3o0EI",
+  "fichier": "banque/photos/CmdolE3o0EI.jpg",
+  "photographe": "Remuel",
+  "username": "arellanuuu",
+  "theme": "Biblique",
+  "description": "lumière du matin qui traverse les rideaux d'une chambre sombre",
+  "tags": [
+   "lumière",
+   "matin",
+   "fenêtre",
+   "rideaux",
+   "chambre",
+   "espoir"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": [
+   {
+    "video": "v51",
+    "publication": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "id": "P3SWMc6wLOQ",
+  "fichier": "banque/photos/P3SWMc6wLOQ.jpg",
+  "photographe": "Theodor Vasile",
+  "username": "theodorrr",
+  "theme": "Biblique",
+  "description": "oiseau en plein vol au-dessus de l'océan au coucher du soleil",
+  "tags": [
+   "oiseau",
+   "vol",
+   "ciel",
+   "océan",
+   "coucher de soleil",
+   "liberté"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": [
+   {
+    "video": "v51",
+    "publication": "2026-11-24"
+   }
+  ]
  }
 ]
