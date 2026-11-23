@@ -12,6 +12,8 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 
 - 23/11 09:07 : 3 envois TheOne faits (quota du 23 utilise) : Liam ep1 public 09:20 (DC8qFdwR4OM), v49 Biblique public 12:00 (jNsoeNYEEiM), v50 Storytime public 16:00 (DPY4ujAxU3o).
 
+- 23/11 14:47 : v51 Biblique (24/11 05:00) creee sur TheOne (publication f095ff65-d8f8-4410-bdac-d2705190508f, brouillon). Envois du 24/11 apres 09:00 : 1) v51 TheOne, 2) file A n°1, 3) file A n°2 (pas de video 16:00 le 24/11).
+
 ## File A : retard TheOne
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39-12b3-418c-8475-afaa98e02f04, destination YouTube a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa-b845-4516-b84e-8ac9227defe8, destination YouTube a creer)
@@ -27,4 +29,5 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 7. Liam ep1 v48 (post baaa57d6-8a71-43ac-9dff-753edf23834d, publication a7efed3d-8efa-4af4-aecf-f33c340e772b)
 8. Biblique v49 Esaie 40:31 (post 6d699bc6-a1af-4a54-805c-271de8095957, publication a4dd0162-ee1c-4ff9-9a78-c43021ee6ea5)
 9. Storytime v50 42 000 $ (post a99ac2af-1381-437f-8e05-aecc8aa5e378, publication 94ec2e08-7300-4e4c-82cf-83aea4e38553)
+10. Biblique v51 Matthieu 6:34 (post 018059d1-7b3f-4592-817f-b593911b759b, publication 46aed010-63be-4127-a0a0-e2714ab11dc2)
 (Ajouter ici chaque nouvelle video, dans l'ordre de sortie sur TheOne.)

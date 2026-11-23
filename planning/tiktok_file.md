@@ -15,5 +15,7 @@ Regles :
 - 27/11 12:00 : Biblique v49 « Fatigue des lundi matin ? » (post 6d699bc6, publication 7b916f55-6f27-4e38-aa37-d428efd2cead) - PROGRAMME
 - 27/11 19:00 : Storytime v50 « Il trouve 42 000 $ par terre » (post a99ac2af, publication 7095c05f-7fa7-4479-be95-3f7047669d13) - PROGRAMME
 
-## Prochain creneau libre : 28/11 12:00 (puis 28/11 19:00, 29/11 12:00, ...)
+- 28/11 12:00 : Biblique v51 « Tu t'inquietes pour demain ? » (post 018059d1, publication a1be42b4-2435-4401-92f1-524f210c733e) - PROGRAMME
+
+## Prochain creneau libre : 28/11 19:00 (puis 29/11 12:00, 29/11 19:00, ...)
 Rappel : l'episode 2 de Liam (produit le 29/11) passe devant les videos pas encore programmees.
