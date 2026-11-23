@@ -10,7 +10,7 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 ## Journal
 - 22/11 09:06 : TheOne = Elie (sortie immediate), Humour « connait le chemin » (10:00), Motivation « Personne ne viendra te sauver » (16:00). Quota du jour utilise. Ayle&Co : rien (file B).
 
-- 22/11 14:47 : quota du 22 deja utilise. A ENVOYER EN PRIORITE le 23/11 apres 09:00 (TheOne, videos du jour, publishAt a remettre a l'heure de l'envoi si depasse) : 1) Liam ep1 (post baaa57d6, publication a030b3fb-f749-495e-8ce0-3fe4694bf44f), 2) v49 Biblique (post 6d699bc6, publication 9f88ae02-de91-4dd4-a5e2-3de5f84180b7), 3) v50 Storytime 16:00 (post a99ac2af, publication ac074351-d3f5-4db9-84d6-7da01d0d620c). Quota du 23 = ces 3 envois, rien pour la file A ni B.
+- 23/11 09:07 : 3 envois TheOne faits (quota du 23 utilise) : Liam ep1 public 09:20 (DC8qFdwR4OM), v49 Biblique public 12:00 (jNsoeNYEEiM), v50 Storytime public 16:00 (DPY4ujAxU3o).
 
 ## File A : retard TheOne
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39-12b3-418c-8475-afaa98e02f04, destination YouTube a creer)
