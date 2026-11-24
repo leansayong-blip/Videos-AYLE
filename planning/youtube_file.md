@@ -18,7 +18,7 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 - 24/11 14:52 (tache 14:47, AVANT la nouvelle regle de 15:21) : 3 envois TheOne immediats, sans publishAt : v51 Matthieu 6:34 (BKzk0y2zviE), Humour « lundi vs vendredi » (KcKkPY1S4NU), Motivation « Le bon moment n'existe pas » (nBzgp__2tu4). Quota du 24 utilise. Les 3 sont sorties a la meme heure (erreur signalee par Leans, regle corrigee).
 
 ## A envoyer (par la tache de 09:05 uniquement)
-Ordre pour le 25/11 : 1) v53 Histoire Vraie TheOne, 2) v52 Biblique TheOne, 3) file A n°1 (Apocalypse). Creneaux 10:00 / 14:00 / 19:00.
+Ordre pour le 25/11 : 1) v53 Histoire Vraie TheOne, 2) v52 Biblique TheOne, 3) file A n°1 (Apocalypse). Creneaux : 25/11 17:00, 26/11 03:00, 26/11 09:00 (regle du 24/11 15:59, verif 23:00).
 - v53 Histoire Vraie « L'espion qui avait prevenu pour Pearl Harbor » TheOne (post 146d8e14-6e8f-4af5-9d19-dfeeb9d01d1f, publication e915ed42-9702-4d41-a06c-2b88cb8e890c, brouillon sans publishAt, contenu IA mentionne)
 - v52 Biblique Josue 1:9 TheOne (post dde3f216-c039-47f8-8aa5-faf0bb009c24, publication 30069cd2-33d6-495f-9052-589bc63f3b90, brouillon sans publishAt)
 
