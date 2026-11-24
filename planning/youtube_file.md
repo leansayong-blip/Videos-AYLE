@@ -4,7 +4,7 @@ Regle : chaque jour, les envois servent dans cet ordre :
  1) TheOne : les videos du jour (ex. lundi avec Liam = 3 sur TheOne, 0 sur Ayle&Co) ;
  2) TheOne : le retard TheOne (file A ci-dessous, la plus ancienne d'abord) ;
  3) Ayle&Co : la file B, la plus ancienne d'abord (Ayle&Co recoit TOUTES les videos de TheOne, en retard).
-Envois faits UNIQUEMENT par la tache de 09:05, sur les creneaux 10:00, 14:00, 19:00 (un seul envoi par creneau, publishAt obligatoire, voir PIPELINE.md « YOUTUBE : JAMAIS PLUSIEURS VIDEOS A LA MEME HEURE »).
+Envois faits UNIQUEMENT par la tache de 09:05, sur les creneaux 17:00 (jour meme), 03:00 et 09:00 (lendemain) (un seul envoi par creneau, publishAt obligatoire, voir PIPELINE.md « YOUTUBE : JAMAIS PLUSIEURS VIDEOS A LA MEME HEURE »).
 Une video n'est jamais envoyee deux fois sur la meme chaine. A chaque envoi, retirer la ligne de la file et pousser ce fichier.
 Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_social_post_draft_update (title, text, tags, privacyStatus public), puis publier ce publicationId.
 
