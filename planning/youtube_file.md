@@ -15,10 +15,15 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 
 - 23/11 14:47 : v51 Biblique (24/11 05:00) creee sur TheOne (publication f095ff65-d8f8-4410-bdac-d2705190508f, brouillon). Envois du 24/11 apres 09:00 : 1) v51 TheOne, 2) file A n°1, 3) file A n°2 (pas de video 16:00 le 24/11).
 
+- 24/11 14:52 (tache 14:47, AVANT la nouvelle regle de 15:21) : 3 envois TheOne immediats, sans publishAt : v51 Matthieu 6:34 (BKzk0y2zviE), Humour « lundi vs vendredi » (KcKkPY1S4NU), Motivation « Le bon moment n'existe pas » (nBzgp__2tu4). Quota du 24 utilise. Les 3 sont sorties a la meme heure (erreur signalee par Leans, regle corrigee).
+
+## A envoyer (par la tache de 09:05 uniquement)
+Ordre pour le 25/11 : 1) v53 Histoire Vraie TheOne, 2) v52 Biblique TheOne, 3) file A n°1 (Apocalypse). Creneaux 10:00 / 14:00 / 19:00.
+- v53 Histoire Vraie « L'espion qui avait prevenu pour Pearl Harbor » TheOne (post 146d8e14-6e8f-4af5-9d19-dfeeb9d01d1f, publication e915ed42-9702-4d41-a06c-2b88cb8e890c, brouillon sans publishAt, contenu IA mentionne)
+- v52 Biblique Josue 1:9 TheOne (post dde3f216-c039-47f8-8aa5-faf0bb009c24, publication 30069cd2-33d6-495f-9052-589bc63f3b90, brouillon sans publishAt)
+
 ## File A : retard TheOne
-1. Humour « Moi lundi vs moi vendredi » (post e5767b39-12b3-418c-8475-afaa98e02f04, destination YouTube a creer)
-2. Motivation « Le bon moment n'existe pas » (post 9fc0befa-b845-4516-b84e-8ac9227defe8, destination YouTube a creer)
-3. Apocalypse 21:4 corrigee (post 7c11eedb-a26f-4093-a290-d8666049ec97, publication 9bd9bb14-c3e1-43e1-815b-35bf6a5d6854)
+1. Apocalypse 21:4 corrigee (post 7c11eedb-a26f-4093-a290-d8666049ec97, publication 9bd9bb14-c3e1-43e1-815b-35bf6a5d6854)
 
 ## File B : Ayle&Co en differe (ordre de sortie sur TheOne)
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39..., destination a creer)
@@ -31,4 +36,6 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 8. Biblique v49 Esaie 40:31 (post 6d699bc6-a1af-4a54-805c-271de8095957, publication a4dd0162-ee1c-4ff9-9a78-c43021ee6ea5)
 9. Storytime v50 42 000 $ (post a99ac2af-1381-437f-8e05-aecc8aa5e378, publication 94ec2e08-7300-4e4c-82cf-83aea4e38553)
 10. Biblique v51 Matthieu 6:34 (post 018059d1-7b3f-4592-817f-b593911b759b, publication 46aed010-63be-4127-a0a0-e2714ab11dc2)
+11. Biblique v52 Josue 1:9 (post dde3f216-c039-47f8-8aa5-faf0bb009c24, publication ddb56853-92d1-4c1e-9a31-d6471edc4401)
+12. Histoire Vraie v53 Popov (post 146d8e14-6e8f-4af5-9d19-dfeeb9d01d1f, publication f553b315-dc25-4e20-b416-25b4fb4a4431)
 (Ajouter ici chaque nouvelle video, dans l'ordre de sortie sur TheOne.)

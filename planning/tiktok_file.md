@@ -17,5 +17,9 @@ Regles :
 
 - 28/11 12:00 : Biblique v51 « Tu t'inquietes pour demain ? » (post 018059d1, publication a1be42b4-2435-4401-92f1-524f210c733e) - PROGRAMME
 
-## Prochain creneau libre : 28/11 19:00 (puis 29/11 12:00, 29/11 19:00, ...)
-Rappel : l'episode 2 de Liam (produit le 29/11) passe devant les videos pas encore programmees.
+- 28/11 19:00 : Biblique v52 « Tu as peur de ce qui t'attend ? » Josue 1:9 (post dde3f216, publication a98283f1-2199-4d64-8708-fb668941da2c) - PROGRAMME
+
+- 29/11 12:00 : Histoire Vraie v53 « L'espion qui avait prevenu pour Pearl Harbor » (Kling, isAiGenerated) (post 146d8e14, publication 349c2239-319e-4b33-a0ca-fe2ca23ce783) - PROGRAMME
+
+## Prochain creneau libre : 29/11 19:00 (puis 30/11 12:00, 30/11 19:00, ...)
+Rappel : l'episode 2 de Liam (produit le 29/11, sorti le 30/11 03:33) passe devant les videos pas encore programmees : lui donner 30/11 12:00 de preference (jamais avant sa sortie Instagram), et laisser 29/11 19:00 a la video suivante.
