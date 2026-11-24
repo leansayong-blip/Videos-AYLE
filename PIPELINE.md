@@ -190,7 +190,7 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 
 ## SERIE « L'HISTOIRE DE LIAM » (decision de Leans le 21/11, 23:01)
 - Tout est dans series/liam/README.md (lire en entier) et dans la bible Claude Docs dont le lien y figure (scripts des episodes 1 a 3).
-- Jusqu'au 14/12 : 1 episode par semaine, le lundi 03:33 sur TOUS les comptes (Instagram @laterreduprince + @aytenseigne, YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du DIMANCHE produit l'episode du lundi.
+- Jusqu'au 14/12 : 1 episode par semaine, le lundi 05:55 (Leans, 24/11 16:28 ; avant : 03:33) sur TOUS les comptes (Instagram @laterreduprince + @aytenseigne, YouTube 2 chaines ; TikTok 18:00 le meme jour, prioritaire sur la file TikTok). La tache de 14:47 du SAMEDI produit l'episode du lundi (depuis le 24/11).
 - Point du 14/12 : passer a 2 episodes/semaine (lundi et jeudi), budget ElevenLabs/Kling (forfait superieur), bilan des vues de la serie.
 
 ## POINT DU DIMANCHE 22/11 TRAITE EN AVANCE (Leans, 21/11 23:13 : « gardons cela, faisons comme tu dis et gere »)
@@ -214,4 +214,4 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 - Constat : le 24/11, la tache de 14:47 a envoye 3 videos sur TheOne en meme temps (14:52), sans publishAt. Interdit.
 - Les envois YouTube sont faits UNIQUEMENT par la tache « VYLE envois YouTube 09:05 » (chaque jour 09:05, apres la remise a zero du quota). La tache de production de 14:47 ne fait plus aucun envoi YouTube : elle cree les destinations YouTube en brouillon et les ajoute a planning/youtube_file.md (section « A envoyer »).
 - Creneaux YouTube fixes (Europe/Paris), choisis par Leans le 24/11 15:59 : 03:00, 09:00, 17:00. Le quota se remet a zero a 09:00, donc la tache de 09:05 envoie chaque jour 3 videos programmees : 17:00 le jour meme, 03:00 et 09:00 le lendemain. Chaque envoi recoit un publishAt dans le futur sur un creneau different (privacyStatus public) ; jamais d'envoi sans publishAt, jamais deux videos sur le meme creneau, au moins 3 h d'ecart, TheOne et Ayle&Co compris.
-- Ordre d'attribution des 3 creneaux (17:00 du jour, puis 03:00 et 09:00 du lendemain) : episode de Liam (le lundi, creneau 17:00, car il est produit le dimanche apres 09:05), puis videos du jour TheOne, puis file A (retard TheOne), puis file B (Ayle&Co).
+- Ordre d'attribution des 3 creneaux (17:00 du jour, puis 03:00 et 09:00 du lendemain) : episode de Liam : la tache de 09:05 du DIMANCHE le programme pour le LUNDI 05:55 ; ce jour-la les 3 envois sont dimanche 17:00, lundi 05:55 (Liam) et lundi 09:00 (pas de 03:00 le lundi) ; puis videos du jour TheOne, puis file A (retard TheOne), puis file B (Ayle&Co).

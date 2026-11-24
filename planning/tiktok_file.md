@@ -22,4 +22,4 @@ Regles :
 - 29/11 12:00 : Histoire Vraie v53 « L'espion qui avait prevenu pour Pearl Harbor » (Kling, isAiGenerated) (post 146d8e14, publication 349c2239-319e-4b33-a0ca-fe2ca23ce783) - PROGRAMME
 
 ## Prochain creneau libre : 29/11 19:00 (puis 30/11 12:00, 30/11 19:00, ...)
-Rappel : l'episode 2 de Liam (produit le 29/11, sorti le 30/11 03:33) passe devant les videos pas encore programmees : lui donner 30/11 12:00 de preference (jamais avant sa sortie Instagram), et laisser 29/11 19:00 a la video suivante.
+Rappel : l'episode 2 de Liam (produit le 28/11, sorti le 30/11 05:55) passe devant les videos pas encore programmees : lui donner 30/11 12:00 de preference (jamais avant sa sortie Instagram), et laisser 29/11 19:00 a la video suivante.
