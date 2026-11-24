@@ -209,3 +209,9 @@ Constat 2026 : Instagram limite les posts et Reels à **5 hashtags maximum** ; Y
 ## Methode Liam validee le 22/11 (episode 1)
 - References Kling : les decoupes de personnages/ ont un ratio < 0,4 (refuse par omni_ref_video) -> utiliser les versions completees en largeur de series/liam/personnages/kling_ref/<nom>_portrait_pad.jpg et <nom>_pied_pad.jpg (ratio 0,5, fond gris d'origine). Creer la version _pad pour chaque nouveau personnage.
 - Montage : base locale complete (generic_build : photos, voix, musique, sous-titres, logo) avec une image provisoire a l'emplacement du clip Kling, puis vidiq_compose avec UNE scene (la base, keepNativeAudio true) et le clip Kling en overlay video plein cadre (muet) a l'emplacement prevu, + overlays image des sous-titres PNG (clips/cNN.png de generic_build, pousses dans kling/parts/) et du logo pendant le clip. Telecharger le rendu (assets.vidiq.com est accessible), reencoder crf 23, check_langue, puis publier ce fichier depuis GitHub.
+
+## YOUTUBE : JAMAIS PLUSIEURS VIDEOS A LA MEME HEURE (remarque de Leans le 24/11, 15:21)
+- Constat : le 24/11, la tache de 14:47 a envoye 3 videos sur TheOne en meme temps (14:52), sans publishAt. Interdit.
+- Les envois YouTube sont faits UNIQUEMENT par la tache « VYLE envois YouTube 09:05 » (chaque jour 09:05, apres la remise a zero du quota). La tache de production de 14:47 ne fait plus aucun envoi YouTube : elle cree les destinations YouTube en brouillon et les ajoute a planning/youtube_file.md (section « A envoyer »).
+- Creneaux YouTube fixes (Europe/Paris) : 10:00, 14:00, 19:00. Chaque envoi recoit un publishAt dans le futur sur un creneau different (privacyStatus public) ; jamais d'envoi sans publishAt, jamais deux videos sur le meme creneau, au moins 3 h d'ecart, TheOne et Ayle&Co compris.
+- Ordre d'attribution des 3 creneaux : episode de Liam (10:00), puis videos du jour TheOne, puis file A (retard TheOne), puis file B (Ayle&Co).
