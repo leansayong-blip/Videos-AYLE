@@ -17,18 +17,18 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 
 - 24/11 14:52 (tache 14:47, AVANT la nouvelle regle de 15:21) : 3 envois TheOne immediats, sans publishAt : v51 Matthieu 6:34 (BKzk0y2zviE), Humour « lundi vs vendredi » (KcKkPY1S4NU), Motivation « Le bon moment n'existe pas » (nBzgp__2tu4). Quota du 24 utilise. Les 3 sont sorties a la meme heure (erreur signalee par Leans, regle corrigee).
 
+- 25/11 09:10 : 3 envois TheOne programmes (quota du 25 utilise), publics a l'heure : v53 Histoire Vraie Popov 25/11 17:00 (9h00tUsRMdI), v52 Biblique Josue 1:9 26/11 03:00 (HR0HIpfDpdY), Apocalypse 21:4 corrigee 26/11 09:00 (j6WXMpI61F4 ; controle langue v45 refait le 25/11 : 0/8/16 s [fr]). File A vide. Prochain envoi : file B n°1 (sauf nouvelles videos TheOne).
+
 ## A envoyer (par la tache de 09:05 uniquement)
-Ordre pour le 25/11 : 1) v53 Histoire Vraie TheOne, 2) v52 Biblique TheOne, 3) file A n°1 (Apocalypse). Creneaux : 25/11 17:00, 26/11 03:00, 26/11 09:00 (regle du 24/11 15:59, verif 23:00).
-- v53 Histoire Vraie « L'espion qui avait prevenu pour Pearl Harbor » TheOne (post 146d8e14-6e8f-4af5-9d19-dfeeb9d01d1f, publication e915ed42-9702-4d41-a06c-2b88cb8e890c, brouillon sans publishAt, contenu IA mentionne)
-- v52 Biblique Josue 1:9 TheOne (post dde3f216-c039-47f8-8aa5-faf0bb009c24, publication 30069cd2-33d6-495f-9052-589bc63f3b90, brouillon sans publishAt)
+(vide)
 
 ## File A : retard TheOne
-1. Apocalypse 21:4 corrigee (post 7c11eedb-a26f-4093-a290-d8666049ec97, publication 9bd9bb14-c3e1-43e1-815b-35bf6a5d6854)
+(vide)
 
 ## File B : Ayle&Co en differe (ordre de sortie sur TheOne)
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39..., destination a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa..., destination a creer)
-3. Apocalypse 21:4 corrigee (post 7c11eedb..., publication f6923f8a-c135-4a6d-96de-e3fe8552d410)
+3. Apocalypse 21:4 corrigee (post 7c11eedb..., publication f6923f8a-8699-4434-bdbe-3f1e30be5e53)
 4. Elie 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c, publication da63783a-5791-4a52-a1c7-4ec47017d5c3)
 5. Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e, publication 82136a27-3634-4803-9cb2-dd733289da87)
 6. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, publication 50b6a891-03ad-4d89-a870-d79789d10a32)
