@@ -2,7 +2,7 @@
 Regles :
 - TOUT ce qui sort sur YouTube sort aussi sur TikTok (en retard, ce n'est pas grave).
 - PAUSE TikTok du 22/11 au 24/11 inclus : aucune publication TikTok ces 3 jours.
-- A partir du 25/11 : 2 videos par jour, a 12:00 et 19:00 (Europe/Paris), >= 6 h d'ecart, jamais de rafale, jamais de doublon.
+- Du 25/11 au 27/11 : 12:00 et 19:00. DEPUIS LE 28/11 (decision de Leans le 27/11 21:32) : 2 videos par jour, a 05:00 et 11:00 (Europe/Paris), 6 h d'ecart, jamais de rafale, jamais de doublon. Exception le LUNDI : 05:00 et 13:00 (le creneau de 13:00 est reserve a la video americaine en anglais, theme « We The People Weekly »).
 - PROGRAMMER EN AVANCE : chaque video produite recoit tout de suite le prochain creneau TikTok libre (ordre de production ; un episode de Liam passe devant les autres videos pas encore programmees), et sa destination TikTok est programmee immediatement (vidiq_social_post_draft_update avec publishAt, puis vidiq_social_post_publish). Noter le creneau ci-dessous.
 - Controle de langue (outils/check_langue.py) avant chaque programmation.
 
@@ -15,11 +15,14 @@ Regles :
 - 27/11 12:00 : Biblique v49 « Fatigue des lundi matin ? » (post 6d699bc6, publication 7b916f55-6f27-4e38-aa37-d428efd2cead) - PROGRAMME
 - 27/11 19:00 : Storytime v50 « Il trouve 42 000 $ par terre » (post a99ac2af, publication 7095c05f-7fa7-4479-be95-3f7047669d13) - PROGRAMME
 
-- 28/11 12:00 : Biblique v51 « Tu t'inquietes pour demain ? » (post 018059d1, publication a1be42b4-2435-4401-92f1-524f210c733e) - PROGRAMME
+- 28/11 11:00 : Biblique v51 « Tu t'inquietes pour demain ? » (post 018059d1, publication 7b3c1556-2037-44c3-8a7c-523f0c8cbb0d) - PROGRAMME (deplace le 27/11 depuis 12:00)
 
-- 28/11 19:00 : Biblique v52 « Tu as peur de ce qui t'attend ? » Josue 1:9 (post dde3f216, publication a98283f1-2199-4d64-8708-fb668941da2c) - PROGRAMME
+- 29/11 05:00 : Biblique v52 « Tu as peur de ce qui t'attend ? » Josue 1:9 (post dde3f216, publication 73a443d3-28d0-4ed5-87bb-ebd8d28b3a9f) - PROGRAMME (deplace le 27/11 depuis 28/11 19:00)
 
-- 29/11 12:00 : Histoire Vraie v53 « L'espion qui avait prevenu pour Pearl Harbor » (Kling, isAiGenerated) (post 146d8e14, publication 349c2239-319e-4b33-a0ca-fe2ca23ce783) - PROGRAMME
+- 29/11 11:00 : Histoire Vraie v53 « L'espion qui avait prevenu pour Pearl Harbor » (Kling, isAiGenerated) (post 146d8e14, publication 59c235ef-1d9d-4ee0-a3af-9bd2c81a5cfe) - PROGRAMME (deplace le 27/11 depuis 12:00)
 
-## Prochain creneau libre : 29/11 19:00 (puis 30/11 12:00, 30/11 19:00, ...)
-Rappel : l'episode 2 de Liam (produit le 28/11, sorti le 30/11 05:55) passe devant les videos pas encore programmees : lui donner 30/11 12:00 de preference (jamais avant sa sortie Instagram), et laisser 29/11 19:00 a la video suivante.
+## Prochain creneau libre : 29/11 ... complet ; ensuite 30/11 05:00
+- 30/11 05:00 : prochaine video produite (ordre de production).
+- 30/11 13:00 : RESERVE video americaine « We The People Weekly » n°1 (lundi, anglais).
+- 01/12 05:00 : RESERVE episode 2 de Liam (jamais avant sa sortie Instagram du 30/11 05:55).
+- puis 01/12 11:00, 02/12 05:00, 02/12 11:00, ... dans l'ordre de production.
