@@ -3929,7 +3929,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v54",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "qhwrPYmQ8YY",
@@ -3947,7 +3952,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2160,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v54",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "RIQ96s3Uzso",
@@ -3966,7 +3976,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v54",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "FY7CehhJusI",
@@ -3985,7 +4000,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v54",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "N_NFolZUgZY",
@@ -4004,7 +4024,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "_vKjjSXftcE",
@@ -4022,7 +4047,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2430,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "fGrb35rHPCQ",
@@ -4041,7 +4071,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2026,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "05KRvhc6B8g",
@@ -4059,7 +4094,12 @@
   ],
   "largeur": 1620,
   "hauteur": 1951,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "ixRYvsuvazA",
@@ -4077,7 +4117,12 @@
   ],
   "largeur": 1620,
   "hauteur": 2429,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  },
  {
   "id": "m_x9ej4BeK4",
@@ -4095,6 +4140,11 @@
   ],
   "largeur": 1620,
   "hauteur": 2422,
-  "utilisations": []
+  "utilisations": [
+   {
+    "video": "v55",
+    "publication": "2026-11-28"
+   }
+  ]
  }
 ]

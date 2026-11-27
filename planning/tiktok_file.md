@@ -21,9 +21,11 @@ Regles :
 
 - 29/11 11:00 : Histoire Vraie v53 « L'espion qui avait prevenu pour Pearl Harbor » (Kling, isAiGenerated) (post 146d8e14, publication 59c235ef-1d9d-4ee0-a3af-9bd2c81a5cfe) - PROGRAMME (deplace le 27/11 depuis 12:00)
 
-## Prochain creneau libre : 29/11 ... complet ; ensuite 30/11 05:00
+- 30/11 05:00 : Biblique v54 « Fatigue des le matin ? » Lamentations 3:22-23 (post a0374e7d, publication 9ac9d678-f8a9-4a2f-b2e6-73efcbf2d68d) - PROGRAMME (27/11)
+- 01/12 11:00 : Histoire Vraie v55 « Le cadavre qui a trompe Hitler » (Kling, isAiGenerated) (post bf30c5fa, publication 34144d83-e75a-4a66-b966-3f9f79e7bdec) - PROGRAMME (27/11)
+
+## Creneaux reserves / prochain creneau libre
 - 29/11 19:00 : RESERVE « We The People Weekly France » n°1 (produite le 28/11).
-- 30/11 05:00 : prochaine video produite (ordre de production).
 - 30/11 13:00 : RESERVE video americaine « We The People Weekly » n°1 (lundi, anglais).
 - 01/12 05:00 : RESERVE episode 2 de Liam (jamais avant sa sortie Instagram du 30/11 05:55).
-- puis 01/12 11:00, 02/12 05:00, 02/12 11:00, ... dans l'ordre de production.
+- PROCHAIN CRENEAU LIBRE : 02/12 05:00, puis 02/12 11:00, 03/12 05:00, ... dans l'ordre de production.
