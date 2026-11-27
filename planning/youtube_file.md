@@ -19,6 +19,9 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 
 - 25/11 09:10 : 3 envois TheOne programmes (quota du 25 utilise), publics a l'heure : v53 Histoire Vraie Popov 25/11 17:00 (9h00tUsRMdI), v52 Biblique Josue 1:9 26/11 03:00 (HR0HIpfDpdY), Apocalypse 21:4 corrigee 26/11 09:00 (j6WXMpI61F4 ; controle langue v45 refait le 25/11 : 0/8/16 s [fr]). File A vide. Prochain envoi : file B n°1 (sauf nouvelles videos TheOne).
 
+- 26/11 et 27/11 09:05 : taches non executees (limite d'utilisation).
+- 27/11 21:45 (demande de Leans) : 3 envois Ayle&Co programmes : Apocalypse 21:4 22:00, Elie 23:00, Humour « connait le chemin » 23:45. Quota du 27 utilise.
+
 ## A envoyer (par la tache de 09:05 uniquement)
 (vide)
 
@@ -28,9 +31,6 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 ## File B : Ayle&Co en differe (ordre de sortie sur TheOne)
 1. Humour « Moi lundi vs moi vendredi » (post e5767b39..., destination a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa..., destination a creer)
-3. Apocalypse 21:4 corrigee (post 7c11eedb..., publication f6923f8a-8699-4434-bdbe-3f1e30be5e53)
-4. Elie 1 Rois 19 (post e69937a6-a0a0-4951-acb0-048176a6c67c, publication da63783a-5791-4a52-a1c7-4ec47017d5c3)
-5. Humour « connait le chemin » (post 1b6663ac-32b5-4669-8ee5-cb6e84b8cc6e, publication 82136a27-3634-4803-9cb2-dd733289da87)
 6. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, publication 50b6a891-03ad-4d89-a870-d79789d10a32)
 7. Liam ep1 v48 (post baaa57d6-8a71-43ac-9dff-753edf23834d, publication a7efed3d-8efa-4af4-aecf-f33c340e772b)
 8. Biblique v49 Esaie 40:31 (post 6d699bc6-a1af-4a54-805c-271de8095957, publication a4dd0162-ee1c-4ff9-9a78-c43021ee6ea5)
