@@ -3911,5 +3911,190 @@
     "publication": "2026-11-25"
    }
   ]
+ },
+ {
+  "id": "1kxdbb11zjo",
+  "fichier": "banque/photos/1kxdbb11zjo.jpg",
+  "photographe": "Sinthujan Thangavelu",
+  "username": "sinthu",
+  "theme": "Biblique",
+  "description": "soleil qui inonde une vallée entre montagnes (bonne couverture)",
+  "tags": [
+   "matin",
+   "lever de soleil",
+   "vallée",
+   "lumière",
+   "montagne",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "qhwrPYmQ8YY",
+  "fichier": "banque/photos/qhwrPYmQ8YY.jpg",
+  "photographe": "Safa",
+  "username": "safabeyfendi",
+  "theme": "Biblique",
+  "description": "store ouvert, rayons de soleil par la fenêtre",
+  "tags": [
+   "fenêtre",
+   "matin",
+   "rayons",
+   "lumière",
+   "réveil"
+  ],
+  "largeur": 1620,
+  "hauteur": 2160,
+  "utilisations": []
+ },
+ {
+  "id": "RIQ96s3Uzso",
+  "fichier": "banque/photos/RIQ96s3Uzso.jpg",
+  "photographe": "Alexander Possingham",
+  "username": "allexx54",
+  "theme": "Biblique",
+  "description": "ombre de fenêtre dorée sur un mur",
+  "tags": [
+   "fenêtre",
+   "matin",
+   "lumière",
+   "ombre",
+   "croix",
+   "calme"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "FY7CehhJusI",
+  "fichier": "banque/photos/FY7CehhJusI.jpg",
+  "photographe": "Arnaud Schildknecht",
+  "username": "nonouf",
+  "theme": "Biblique",
+  "description": "montagnes et brume au lever du jour, ciel bleu",
+  "tags": [
+   "montagne",
+   "matin",
+   "aube",
+   "brume",
+   "paysage",
+   "couverture"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "N_NFolZUgZY",
+  "fichier": "banque/photos/N_NFolZUgZY.jpg",
+  "photographe": "Patrick Schöpflin",
+  "username": "patrickschoepflin",
+  "theme": "HistoireVraie",
+  "description": "pleine lune au-dessus d'une mer calme, nuit",
+  "tags": [
+   "mer",
+   "nuit",
+   "lune",
+   "océan",
+   "sombre",
+   "mystère"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "_vKjjSXftcE",
+  "fichier": "banque/photos/_vKjjSXftcE.jpg",
+  "photographe": "Graddes",
+  "username": "graddes",
+  "theme": "HistoireVraie",
+  "description": "croissant de lune sur l'océan la nuit",
+  "tags": [
+   "mer",
+   "nuit",
+   "lune",
+   "océan",
+   "sombre"
+  ],
+  "largeur": 1620,
+  "hauteur": 2430,
+  "utilisations": []
+ },
+ {
+  "id": "fGrb35rHPCQ",
+  "fichier": "banque/photos/fGrb35rHPCQ.jpg",
+  "photographe": "Mykhaylo Kopyt",
+  "username": "mykhailokopyt",
+  "theme": "HistoireVraie",
+  "description": "machine à écrire ancienne sur un bureau, lampe, soir",
+  "tags": [
+   "machine à écrire",
+   "bureau",
+   "document",
+   "secret",
+   "lettre",
+   "vintage"
+  ],
+  "largeur": 1620,
+  "hauteur": 2026,
+  "utilisations": []
+ },
+ {
+  "id": "05KRvhc6B8g",
+  "fichier": "banque/photos/05KRvhc6B8g.jpg",
+  "photographe": "mk. s",
+  "username": "mk__s",
+  "theme": "HistoireVraie",
+  "description": "machine à écrire ancienne avec une feuille, sombre",
+  "tags": [
+   "machine à écrire",
+   "document",
+   "lettre",
+   "vintage",
+   "secret"
+  ],
+  "largeur": 1620,
+  "hauteur": 1951,
+  "utilisations": []
+ },
+ {
+  "id": "ixRYvsuvazA",
+  "fichier": "banque/photos/ixRYvsuvazA.jpg",
+  "photographe": "Annie Spratt",
+  "username": "anniespratt",
+  "theme": "HistoireVraie",
+  "description": "cartes anciennes en noir et blanc",
+  "tags": [
+   "carte",
+   "guerre",
+   "vintage",
+   "géographie",
+   "europe"
+  ],
+  "largeur": 1620,
+  "hauteur": 2429,
+  "utilisations": []
+ },
+ {
+  "id": "m_x9ej4BeK4",
+  "fichier": "banque/photos/m_x9ej4BeK4.jpg",
+  "photographe": "Yusuf Evli",
+  "username": "yusufevli",
+  "theme": "HistoireVraie",
+  "description": "lampe de bureau allumée près d'une machine à écrire, ambiance sombre",
+  "tags": [
+   "bureau",
+   "lampe",
+   "machine à écrire",
+   "nuit",
+   "secret"
+  ],
+  "largeur": 1620,
+  "hauteur": 2422,
+  "utilisations": []
  }
 ]
