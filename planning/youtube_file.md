@@ -21,21 +21,15 @@ Pour une destination YouTube absente d'un post vidIQ : l'ajouter avec vidiq_soci
 
 - 26/11 et 27/11 09:05 : taches non executees (limite d'utilisation).
 - 27/11 21:45 (demande de Leans) : 3 envois Ayle&Co Apocalypse 21:4, Elie, Humour « connait le chemin ». ATTENTION : partis sans publishAt, publics tous les 3 a 21:36 (constate le 27/11 22:05), pas a 22:00/23:00/23:45. Quota du 27 utilise.
+- 28/11 09:08 : 3 envois programmes (quota du 28 utilise), creneaux fixes 17:00/03:00/09:00 de la tache (et non 09:30/13:00 de la consigne du 27/11) : v54 Lamentations 3:22-23 TheOne 28/11 17:00 (PT-jbQ7f6Pk), v55 Mincemeat TheOne 29/11 03:00 (tufGrFNh9Vc), Humour « Moi lundi vs moi vendredi » Ayle&Co 29/11 09:00 (HwCc8dXqGSA, publication 020bb54d-a544-4c79-8de7-574fe69720a4). Prives jusqu'a l'heure (introuvables publiquement a 09:09).
 
 ## A envoyer (par la tache de 09:05 uniquement)
-CONSIGNE POUR LE SAMEDI 28/11 (Leans, 27/11 22:10 : « gere », TheOne n'a rien sorti depuis le 26/11 09:00) : exception ponctuelle aux creneaux fixes. 3 envois des 09:05 :
- 1) v54 TheOne publishAt 28/11 09:30 (deja note sur la destination 63e8df9a) ;
- 2) v55 TheOne publishAt 28/11 13:00 (deja note sur la destination 007ada23) ;
- 3) 28/11 17:00 : file B n°1 sur Ayle&Co (aucune autre video TheOne disponible).
- Essai d'envoi v54 le 27/11 22:10 refuse par vidIQ (quota du jour utilise, remise a zero 09:00 Paris). Rien n'a ete envoye.
-- v54 Biblique Lamentations 3:22-23 (post a0374e7d-dafa-4834-8f8d-386f7b4677d3, TheOne 63e8df9a-8155-40cc-bf6b-6d9116407a93) - brouillon, publie Instagram 28/11 05:00
-- v55 Histoire Vraie Mincemeat, Kling (post bf30c5fa-d413-4de3-a1da-1082b0e3bc58, TheOne 007ada23-3650-4806-bf8c-30ca31077f83) - brouillon, publie Instagram 28/11 10:00
+(vide)
 
 ## File A : retard TheOne
 (vide)
 
 ## File B : Ayle&Co en differe (ordre de sortie sur TheOne)
-1. Humour « Moi lundi vs moi vendredi » (post e5767b39..., destination a creer)
 2. Motivation « Le bon moment n'existe pas » (post 9fc0befa..., destination a creer)
 6. Motivation « Personne ne viendra te sauver » (post 5208f621-3acd-48e4-9ea9-e69e20f0ab3e, publication 50b6a891-03ad-4d89-a870-d79789d10a32)
 7. Liam ep1 v48 (post baaa57d6-8a71-43ac-9dff-753edf23834d, publication a7efed3d-8efa-4af4-aecf-f33c340e772b)
